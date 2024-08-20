@@ -1,0 +1,2001 @@
+Amount_Spent,Transaction_Type,Date,Gemini_Category
+847.34,Butcher,6/19/2024,Food
+728.86,Charity Donation,4/4/2024,Charity
+452.56,Home Improvement,7/28/2024,Home
+994.25,Bank Fee,9/2/2023,Other
+747.7,Bank Fee,2/11/2024,Other
+98.57,Parking,11/3/2023,Transportation
+671.3,Gas Station,9/5/2023,Transportation
+919.43,Vet Visit,1/24/2024,Health
+6.1,Uber,4/4/2024,Transportation
+144.09,Taxi,11/5/2023,Transportation
+311.01,Hair Salon,8/8/2023,Personal Care
+398.55,Broker Fee,5/30/2024,other
+580.88,Rent,12/14/2023,other
+469.15,Streaming Service,2/13/2024,Entertainment
+579.8,Broker Fee,7/11/2024,other
+874.29,Florist,9/15/2023,Personal Care
+599.78,Dentist,12/19/2023,Health
+581.93,Software Purchase,9/19/2023,other
+530.15,Fast Food,12/11/2023,Food
+628.56,Spa,2/21/2024,Personal Care
+256.2,Amazon,2/4/2024,Shopping
+444.9,Insurance Payment,8/19/2023,other
+443.59,Video Game Store,4/18/2024,other
+661.77,Software Purchase,12/18/2023,other
+825.88,Spotify,8/10/2023,other
+19.99,Utility Bill,5/7/2024,other
+303.91,Book Store,4/13/2024,Shopping
+34.28,Netflix,10/22/2023,Entertainment
+128.55,Butcher,3/20/2024,Food
+596.6,Spotify,4/4/2024,other
+192.59,Childcare Service,10/26/2023,Services
+159.51,Concert Ticket,5/30/2024,Entertainment
+230.95,Hotel,9/9/2023,other
+270.49,Childcare Service,8/21/2023,Services
+349.34,Grocery Store,9/19/2023,Food
+74.59,Pet Store,6/8/2024,other
+362.18,Hardware Purchase,1/30/2024,Shopping
+219.0,House Cleaning,3/29/2024,Home
+521.98,Streaming Service,1/17/2024,Entertainment
+276.79,Online Course,2/5/2024,Entertainment
+757.65,Online Course,8/16/2023,Entertainment
+252.55,Video Game Store,5/28/2024,other
+114.63,Book Store,12/17/2023,Shopping
+20.66,Spa,1/1/2024,Personal Care
+966.85,Subscription Box,2/13/2024,Entertainment
+893.09,Airline Ticket,7/14/2024,Transportation
+370.6,Movie Theater,7/19/2024,Entertainment
+146.99,Concert Ticket,4/8/2024,Entertainment
+796.29,Hotel,3/16/2024,other
+970.4,Public Transport,11/1/2023,Transportation
+323.05,Clothing Store,5/22/2024,Shopping
+98.89,Bank Fee,7/18/2024,Other
+941.27,Electronics Store,6/9/2024,Shopping
+385.62,Lottery Ticket,2/9/2024,Other
+491.52,Amazon,6/20/2024,Shopping
+895.6,Restaurant,1/1/2024,Food
+243.99,Taxi,10/29/2023,Transportation
+405.25,Lottery Ticket,4/24/2024,Other
+639.27,Furniture Store,3/2/2024,Shopping
+788.78,Gardening Service,8/4/2023,Services
+777.22,Hotel,7/27/2024,other
+96.59,Fast Food,10/25/2023,Food
+547.41,Spotify,5/26/2024,other
+371.3,Utility Bill,6/4/2024,other
+643.7,Hotel,11/6/2023,other
+992.49,Childcare Service,3/28/2024,Services
+362.11,Concert Ticket,3/20/2024,Entertainment
+356.4,Furniture Store,5/15/2024,Shopping
+644.52,Broker Fee,1/6/2024,other
+413.95,Florist,11/4/2023,Personal Care
+476.39,House Cleaning,6/1/2024,Home
+152.5,Pet Store,11/1/2023,other
+224.74,Maintenance Fee,5/20/2024,Services
+585.95,Airline Ticket,9/9/2023,Transportation
+305.73,Spotify,5/28/2024,other
+849.23,Home Improvement,2/21/2024,Home
+154.12,Subscription Box,2/21/2024,Entertainment
+826.4,Rent,7/10/2024,other
+651.85,Bank Fee,12/31/2023,Other
+490.13,Bakery,11/6/2023,Food
+222.73,Childcare Service,5/15/2024,Services
+194.46,Restaurant,7/20/2024,Food
+957.81,Vet Visit,6/23/2024,Health
+221.67,Netflix,1/31/2024,Entertainment
+372.51,Airline Ticket,7/26/2024,Transportation
+575.23,Parking,5/14/2024,Transportation
+896.5,Mortgage,11/12/2023,Investments
+73.63,Grocery Store,5/25/2024,Food
+329.8,Hair Salon,6/8/2024,Personal Care
+728.06,Concert Ticket,11/8/2023,Entertainment
+689.23,Furniture Store,7/23/2024,Shopping
+370.07,Legal Service,11/23/2023,Services
+339.02,Gardening Service,6/27/2024,Services
+463.37,Dentist,1/30/2024,Health
+526.27,Investment,10/24/2023,Investments
+865.38,Vet Visit,12/24/2023,Health
+285.51,Uber,3/22/2024,Transportation
+750.68,Maintenance Fee,12/23/2023,Services
+652.94,Taxi,11/4/2023,Transportation
+746.14,Hardware Purchase,7/15/2024,Shopping
+356.96,Property Tax,6/16/2024,Home
+825.78,Grocery Store,3/25/2024,Food
+817.95,Hardware Purchase,7/30/2024,Shopping
+962.96,Deli,1/29/2024,other
+344.3,Gardening Service,11/15/2023,Services
+208.92,Property Tax,3/14/2024,Home
+704.16,House Cleaning,2/14/2024,Home
+871.58,Accounting Service,3/25/2024,Services
+262.61,Utility Bill,10/20/2023,other
+478.02,Grocery Store,8/14/2023,Food
+362.49,Electronics Store,2/13/2024,Shopping
+21.0,Online Course,6/24/2024,Entertainment
+87.51,Netflix,4/26/2024,Entertainment
+599.75,Book Store,9/5/2023,Shopping
+924.71,Education Fee,12/21/2023,Services
+719.1,Online Course,12/4/2023,Entertainment
+178.21,Bakery,12/22/2023,Food
+598.52,Consulting Fee,12/14/2023,Services
+723.53,Maintenance Fee,6/6/2024,Services
+472.74,Property Tax,11/9/2023,Home
+779.12,Pet Store,12/26/2023,other
+550.38,Property Tax,3/28/2024,Home
+492.92,Home Improvement,12/8/2023,Home
+987.22,Streaming Service,11/7/2023,Entertainment
+326.66,Hair Salon,9/11/2023,Personal Care
+565.06,Music Instrument Store,3/21/2024,Shopping
+564.41,Online Course,7/12/2024,Entertainment
+728.96,Netflix,2/16/2024,Entertainment
+337.33,Mortgage,5/22/2024,Investments
+971.79,Deli,3/29/2024,other
+305.32,Deli,8/13/2023,other
+871.96,Lottery Ticket,12/17/2023,Other
+783.35,Netflix,1/18/2024,Entertainment
+556.9,Music Instrument Store,3/2/2024,Shopping
+342.72,Subscription Box,10/23/2023,Entertainment
+580.58,Rent,3/25/2024,other
+893.93,Taxi,1/12/2024,Transportation
+296.46,Hardware Purchase,12/7/2023,Shopping
+628.44,Butcher,7/28/2024,Food
+915.65,Uber,2/25/2024,Transportation
+121.48,Utility Bill,6/29/2024,other
+848.63,Gift Shop,7/24/2024,Personal Care
+971.41,Book Store,6/8/2024,Shopping
+935.43,Dentist,4/16/2024,Health
+437.38,Childcare Service,1/13/2024,Services
+461.59,Florist,11/21/2023,Personal Care
+650.7,Florist,12/14/2023,Personal Care
+532.34,Property Tax,6/27/2024,Home
+789.88,Investment,6/9/2024,Investments
+285.03,Movie Theater,4/1/2024,Entertainment
+15.68,Insurance Payment,12/16/2023,other
+949.61,Public Transport,11/17/2023,Transportation
+953.98,Grocery Store,10/31/2023,Food
+344.18,Parking,12/7/2023,Transportation
+590.2,Spa,10/10/2023,Personal Care
+202.96,Uber,8/25/2023,Transportation
+113.51,Florist,7/22/2024,Personal Care
+171.69,Bank Fee,4/21/2024,Other
+214.68,Gym Membership,5/3/2024,other
+363.53,Home Improvement,9/4/2023,Home
+450.56,Music Instrument Store,7/1/2024,Shopping
+173.18,Property Tax,10/27/2023,Home
+741.1,Concert Ticket,12/6/2023,Entertainment
+902.46,Freelance Payment,3/19/2024,Services
+616.66,Butcher,12/10/2023,Food
+803.14,Insurance Payment,5/9/2024,other
+441.06,Gas Station,1/28/2024,Transportation
+68.1,Pet Store,8/6/2023,other
+628.07,Grocery Store,4/5/2024,Food
+745.88,Deli,7/31/2024,other
+981.77,Business Service,7/24/2024,Services
+42.12,Uber,2/12/2024,Transportation
+27.0,Home Improvement,9/26/2023,Home
+323.07,Rent,12/9/2023,other
+584.82,Legal Service,2/15/2024,Services
+476.14,Doctor's Visit,9/3/2023,Health
+622.5,Online Course,1/1/2024,Entertainment
+986.06,Electronics Store,2/3/2024,Shopping
+968.67,Hotel,6/9/2024,other
+8.64,Coffee Shop,8/11/2023,Food
+226.92,Dentist,8/13/2023,Health
+729.15,Butcher,6/5/2024,Food
+545.52,Airline Ticket,1/26/2024,Transportation
+506.94,Uber,7/3/2024,Transportation
+831.78,House Cleaning,5/24/2024,Home
+511.84,Childcare Service,12/23/2023,Services
+480.31,Public Transport,10/19/2023,Transportation
+802.75,Hotel,12/14/2023,other
+275.4,Childcare Service,1/5/2024,Services
+754.2,Streaming Service,5/29/2024,Entertainment
+141.18,Accounting Service,8/12/2023,Services
+734.24,Lottery Ticket,8/27/2023,Other
+252.92,Video Game Store,5/7/2024,other
+248.98,Florist,7/8/2024,Personal Care
+102.62,Vet Visit,4/8/2024,Health
+722.89,Clothing Store,5/2/2024,Shopping
+129.65,Concert Ticket,5/18/2024,Entertainment
+636.91,Amazon,10/18/2023,Shopping
+126.24,Movie Theater,3/3/2024,Entertainment
+585.63,Maintenance Fee,12/10/2023,Services
+92.53,Utility Bill,5/5/2024,other
+692.27,Dentist,10/12/2023,Health
+284.11,Freelance Payment,4/3/2024,Services
+819.72,Mortgage,8/20/2023,Investments
+290.01,Gardening Service,6/2/2024,Services
+644.04,Pharmacy,1/31/2024,Health
+918.63,Taxi,12/8/2023,Transportation
+660.79,Lottery Ticket,2/18/2024,Other
+341.12,Bank Fee,11/30/2023,Other
+525.81,Education Fee,7/16/2024,Services
+35.47,Car Rental,4/13/2024,Transportation
+352.08,Fast Food,6/19/2024,Food
+460.92,Utility Bill,2/13/2024,other
+186.91,Home Improvement,12/24/2023,Home
+698.43,Pet Store,12/2/2023,other
+575.02,Video Game Store,3/12/2024,other
+226.77,Pet Store,5/2/2024,other
+807.71,Fast Food,6/20/2024,Food
+397.3,Furniture Store,9/10/2023,Shopping
+289.97,Gas Station,6/27/2024,Transportation
+646.33,Amazon,11/25/2023,Shopping
+659.31,Hair Salon,2/27/2024,Personal Care
+494.3,Lottery Ticket,12/23/2023,Other
+720.84,Furniture Store,12/18/2023,Shopping
+7.53,Netflix,12/5/2023,Entertainment
+939.77,Rent,12/31/2023,other
+729.46,Gas Station,1/6/2024,Transportation
+261.21,Car Rental,11/23/2023,Transportation
+78.24,Book Store,6/12/2024,Shopping
+493.15,Florist,4/15/2024,Personal Care
+5.6,Investment,9/25/2023,Investments
+860.59,Book Store,8/11/2023,Shopping
+887.03,Pharmacy,6/10/2024,Health
+391.04,Fast Food,7/23/2024,Food
+531.24,Gardening Service,11/21/2023,Services
+791.41,Hardware Purchase,3/27/2024,Shopping
+998.19,Streaming Service,12/26/2023,Entertainment
+339.88,Broker Fee,8/17/2023,other
+393.8,Florist,6/14/2024,Personal Care
+391.82,Broker Fee,6/15/2024,other
+615.64,Restaurant,4/19/2024,Food
+925.36,Accounting Service,5/29/2024,Services
+443.2,Public Transport,12/6/2023,Transportation
+606.18,Vet Visit,3/7/2024,Health
+879.99,Fitness Equipment,5/8/2024,other
+5.75,Music Instrument Store,8/19/2023,Shopping
+876.39,Bakery,10/15/2023,Food
+569.85,Gardening Service,12/17/2023,Services
+515.58,Pharmacy,3/29/2024,Health
+523.44,Pharmacy,9/4/2023,Health
+982.78,Spotify,1/15/2024,other
+313.16,Legal Service,12/4/2023,Services
+970.72,Florist,1/26/2024,Personal Care
+881.58,Streaming Service,10/8/2023,Entertainment
+944.72,Electronics Store,11/4/2023,Shopping
+532.93,Doctor's Visit,9/19/2023,Health
+951.44,Butcher,11/12/2023,Food
+461.01,Vet Visit,11/5/2023,Health
+982.21,Hardware Purchase,8/1/2023,Shopping
+243.19,Maintenance Fee,12/14/2023,Services
+989.39,Investment,9/8/2023,Investments
+553.09,Maintenance Fee,7/17/2024,Services
+190.56,Software Purchase,12/4/2023,other
+782.07,Courier Service,9/23/2023,Transportation
+384.02,Butcher,9/27/2023,Food
+291.39,Music Instrument Store,3/7/2024,Shopping
+200.38,Freelance Payment,11/30/2023,Services
+762.21,Clothing Store,10/30/2023,Shopping
+386.29,Clothing Store,11/15/2023,Shopping
+97.44,Bakery,6/18/2024,Food
+165.63,Broker Fee,10/13/2023,other
+179.2,Hardware Purchase,10/13/2023,Shopping
+70.94,Software Purchase,12/25/2023,other
+162.79,Vet Visit,11/28/2023,Health
+504.99,Broker Fee,1/16/2024,other
+529.26,Childcare Service,3/15/2024,Services
+680.12,Hair Salon,6/18/2024,Personal Care
+722.71,Fitness Equipment,10/25/2023,other
+42.3,Maintenance Fee,5/12/2024,Services
+844.74,Movie Theater,12/19/2023,Entertainment
+594.77,Broker Fee,4/13/2024,other
+333.42,Online Course,4/30/2024,Entertainment
+915.31,Fitness Equipment,7/3/2024,other
+851.49,Broker Fee,11/13/2023,other
+890.88,Consulting Fee,9/21/2023,Services
+779.46,Butcher,8/15/2023,Food
+990.29,Clothing Store,3/11/2024,Shopping
+609.34,Broker Fee,1/25/2024,other
+821.74,Electronics Store,7/13/2024,Shopping
+252.02,Restaurant,10/20/2023,Food
+82.01,Hardware Purchase,11/26/2023,Shopping
+164.86,Movie Theater,11/18/2023,Entertainment
+369.59,Airline Ticket,4/8/2024,Transportation
+652.71,Clothing Store,11/4/2023,Shopping
+267.98,Coffee Shop,8/29/2023,Food
+260.3,Doctor's Visit,5/22/2024,Health
+669.85,Electronics Store,12/8/2023,Shopping
+649.05,Fast Food,10/12/2023,Food
+943.52,Charity Donation,9/2/2023,Charity
+914.72,Fitness Equipment,1/9/2024,other
+368.89,Charity Donation,5/26/2024,Charity
+188.72,Clothing Store,12/15/2023,Shopping
+792.61,Bank Fee,3/25/2024,Other
+730.99,Maintenance Fee,8/15/2023,Services
+824.47,Accounting Service,9/16/2023,Services
+599.01,Vet Visit,12/22/2023,Health
+299.31,Home Improvement,6/1/2024,Home
+544.81,Music Instrument Store,1/7/2024,Shopping
+942.36,Gas Station,9/19/2023,Transportation
+58.87,Spa,9/6/2023,Personal Care
+117.35,Parking,7/5/2024,Transportation
+802.55,Video Game Store,3/16/2024,other
+400.84,Business Service,12/12/2023,Services
+544.95,Taxi,4/18/2024,Transportation
+414.05,Consulting Fee,9/18/2023,Services
+10.03,Music Instrument Store,6/14/2024,Shopping
+25.73,Property Tax,4/2/2024,Home
+230.58,Movie Theater,8/17/2023,Entertainment
+535.3,Public Transport,5/19/2024,Transportation
+973.07,Furniture Store,9/26/2023,Shopping
+120.23,Pharmacy,7/12/2024,Health
+467.95,Video Game Store,1/20/2024,other
+109.34,Insurance Payment,6/27/2024,other
+677.6,Legal Service,3/27/2024,Services
+369.6,Butcher,11/9/2023,Food
+899.75,Streaming Service,12/4/2023,Entertainment
+984.0,Maintenance Fee,3/2/2024,Services
+747.89,Florist,4/25/2024,Personal Care
+683.16,Uber,3/9/2024,Transportation
+30.85,Coffee Shop,1/3/2024,Food
+872.95,Coffee Shop,6/16/2024,Food
+335.09,Rent,3/6/2024,other
+326.65,Business Service,6/2/2024,Services
+378.17,Clothing Store,4/27/2024,Shopping
+839.98,Bakery,5/12/2024,Food
+992.1,Bakery,11/19/2023,Food
+181.36,Amazon,6/18/2024,Shopping
+313.3,Consulting Fee,3/13/2024,Services
+403.79,Bakery,4/30/2024,Food
+946.83,Hardware Purchase,9/28/2023,Shopping
+973.36,Online Course,6/16/2024,Entertainment
+927.53,Airline Ticket,8/1/2024,Transportation
+887.18,Amazon,7/15/2024,Shopping
+81.04,Florist,7/23/2024,Personal Care
+27.12,Online Course,4/4/2024,Entertainment
+421.6,Investment,6/11/2024,Investments
+229.26,Mortgage,1/13/2024,Investments
+485.62,Uber,12/18/2023,Transportation
+250.3,Clothing Store,1/2/2024,Shopping
+580.09,Video Game Store,3/4/2024,other
+504.93,Restaurant,7/20/2024,Food
+716.11,Spa,7/1/2024,Personal Care
+987.3,Uber,2/1/2024,Transportation
+37.93,Spotify,5/29/2024,other
+392.47,Music Instrument Store,1/12/2024,Shopping
+105.69,Book Store,11/16/2023,Shopping
+960.78,Video Game Store,12/30/2023,other
+462.27,Music Instrument Store,2/28/2024,Shopping
+759.09,Hardware Purchase,11/25/2023,Shopping
+162.04,Freelance Payment,8/14/2023,Services
+296.45,Movie Theater,7/1/2024,Entertainment
+893.34,Taxi,3/20/2024,Transportation
+23.5,Movie Theater,3/17/2024,Entertainment
+954.51,Streaming Service,11/19/2023,Entertainment
+940.13,Clothing Store,7/19/2024,Shopping
+709.64,Subscription Box,4/18/2024,Entertainment
+644.45,Home Improvement,8/11/2023,Home
+875.94,Property Tax,9/29/2023,Home
+668.69,Property Tax,8/30/2023,Home
+449.63,Amazon,11/27/2023,Shopping
+708.49,Mortgage,12/23/2023,Investments
+231.75,Accounting Service,5/7/2024,Services
+541.75,Parking,9/28/2023,Transportation
+604.09,Maintenance Fee,7/25/2024,Services
+992.52,Hardware Purchase,12/16/2023,Shopping
+334.67,Subscription Box,2/28/2024,Entertainment
+916.21,Lottery Ticket,8/20/2023,Other
+371.8,Taxi,5/18/2024,Transportation
+617.89,Subscription Box,4/20/2024,Entertainment
+127.26,Public Transport,10/7/2023,Transportation
+242.46,Restaurant,6/18/2024,Food
+463.94,Bank Fee,9/24/2023,Other
+473.72,Coffee Shop,3/11/2024,Food
+170.51,Pet Store,6/21/2024,other
+674.09,Software Purchase,7/13/2024,other
+479.63,Public Transport,3/20/2024,Transportation
+270.41,Accounting Service,7/23/2024,Services
+891.35,Grocery Store,10/19/2023,Food
+207.77,Maintenance Fee,12/11/2023,Services
+94.29,Florist,3/22/2024,Personal Care
+159.63,Doctor's Visit,9/24/2023,Health
+114.3,Utility Bill,4/5/2024,other
+191.78,Parking,5/16/2024,Transportation
+297.08,Business Service,4/14/2024,Services
+17.49,Butcher,2/13/2024,Food
+146.84,Lottery Ticket,5/23/2024,Other
+335.52,Gardening Service,6/17/2024,Services
+950.63,Consulting Fee,7/25/2024,Services
+323.92,Deli,5/12/2024,other
+569.97,Software Purchase,9/8/2023,other
+903.55,Investment,11/21/2023,Investments
+281.02,Spa,5/26/2024,Personal Care
+790.67,Butcher,12/24/2023,Food
+917.42,Pet Store,4/8/2024,other
+84.74,Charity Donation,5/25/2024,Charity
+489.55,Movie Theater,10/11/2023,Entertainment
+786.53,Fitness Equipment,7/31/2024,other
+909.08,Home Improvement,12/19/2023,Home
+621.89,Grocery Store,3/8/2024,Food
+122.87,Fitness Equipment,3/2/2024,other
+990.52,Gift Shop,9/5/2023,Personal Care
+616.0,Grocery Store,2/6/2024,Food
+991.77,Spotify,5/27/2024,other
+756.46,Hotel,12/1/2023,other
+517.0,Furniture Store,4/26/2024,Shopping
+111.4,Clothing Store,5/17/2024,Shopping
+358.45,Hair Salon,7/21/2024,Personal Care
+734.9,Pet Store,3/4/2024,other
+785.41,Subscription Box,8/17/2023,Entertainment
+84.66,Gas Station,10/1/2023,Transportation
+220.83,Gardening Service,12/15/2023,Services
+808.14,Hair Salon,12/17/2023,Personal Care
+395.35,Investment,11/23/2023,Investments
+200.89,Insurance Payment,12/21/2023,other
+81.41,Spotify,4/15/2024,other
+520.64,Vet Visit,2/29/2024,Health
+221.18,Butcher,6/13/2024,Food
+978.07,Movie Theater,10/17/2023,Entertainment
+946.91,Streaming Service,4/21/2024,Entertainment
+196.33,Restaurant,12/22/2023,Food
+596.52,Hotel,4/15/2024,other
+642.21,Grocery Store,3/31/2024,Food
+108.89,Pet Store,1/3/2024,other
+548.28,Pharmacy,6/1/2024,Health
+329.6,Fast Food,6/28/2024,Food
+50.99,Childcare Service,11/25/2023,Services
+968.52,Legal Service,11/17/2023,Services
+750.52,Consulting Fee,6/17/2024,Services
+335.4,Restaurant,4/5/2024,Food
+810.86,House Cleaning,9/20/2023,Home
+360.67,Utility Bill,2/23/2024,other
+222.74,Childcare Service,9/22/2023,Services
+487.46,Courier Service,7/3/2024,Transportation
+556.76,Software Purchase,6/6/2024,other
+97.07,Dentist,3/5/2024,Health
+10.15,Lottery Ticket,10/3/2023,Other
+743.67,Consulting Fee,5/28/2024,Services
+233.81,Consulting Fee,6/9/2024,Services
+112.02,Investment,4/11/2024,Investments
+885.64,Bank Fee,11/11/2023,Other
+469.55,Gardening Service,5/5/2024,Services
+252.02,Courier Service,9/19/2023,Transportation
+463.01,Airline Ticket,3/24/2024,Transportation
+695.47,Spa,6/7/2024,Personal Care
+566.35,Concert Ticket,11/28/2023,Entertainment
+917.3,Rent,2/11/2024,other
+132.06,Music Instrument Store,4/2/2024,Shopping
+285.02,Courier Service,8/17/2023,Transportation
+318.35,Taxi,7/27/2024,Transportation
+197.46,Taxi,3/29/2024,Transportation
+58.44,Spotify,3/20/2024,other
+179.67,Video Game Store,12/17/2023,other
+737.8,Gym Membership,9/20/2023,other
+954.58,Parking,9/5/2023,Transportation
+824.8,Consulting Fee,7/6/2024,Services
+716.97,Electronics Store,2/20/2024,Shopping
+206.05,Home Improvement,7/7/2024,Home
+561.67,Insurance Payment,10/6/2023,other
+251.91,Education Fee,8/16/2023,Services
+488.16,Bakery,2/23/2024,Food
+268.28,Florist,8/17/2023,Personal Care
+488.43,Mortgage,3/5/2024,Investments
+420.11,Bank Fee,4/23/2024,Other
+643.21,Parking,11/27/2023,Transportation
+781.79,Broker Fee,11/22/2023,other
+336.15,Concert Ticket,5/9/2024,Entertainment
+779.3,Utility Bill,1/31/2024,other
+524.79,Pet Store,3/27/2024,other
+961.24,Gas Station,1/31/2024,Transportation
+835.75,Bank Fee,7/12/2024,Other
+882.84,Netflix,3/23/2024,Entertainment
+141.95,Utility Bill,4/4/2024,other
+971.51,Music Instrument Store,2/27/2024,Shopping
+171.83,Gym Membership,11/29/2023,other
+659.18,Vet Visit,3/4/2024,Health
+835.6,Music Instrument Store,10/3/2023,Shopping
+981.01,Hardware Purchase,8/4/2023,Shopping
+687.85,Gift Shop,1/20/2024,Personal Care
+176.5,Music Instrument Store,1/13/2024,Shopping
+279.02,Airline Ticket,6/29/2024,Transportation
+614.95,Bank Fee,2/25/2024,Other
+534.26,Gas Station,11/9/2023,Transportation
+505.95,Concert Ticket,9/7/2023,Entertainment
+60.85,Furniture Store,3/9/2024,Shopping
+144.34,Fast Food,12/13/2023,Food
+36.54,Gift Shop,7/29/2024,Personal Care
+362.0,Gardening Service,7/10/2024,Services
+770.57,Grocery Store,6/9/2024,Food
+74.45,Online Course,11/18/2023,Entertainment
+224.39,Broker Fee,9/6/2023,other
+672.91,Accounting Service,1/27/2024,Services
+94.62,Public Transport,8/7/2023,Transportation
+739.16,Restaurant,3/20/2024,Food
+217.81,Restaurant,4/17/2024,Food
+110.52,Car Rental,3/25/2024,Transportation
+333.03,Utility Bill,1/15/2024,other
+525.78,Butcher,1/2/2024,Food
+806.87,Deli,10/15/2023,other
+955.41,Hair Salon,8/5/2023,Personal Care
+586.47,Bakery,7/14/2024,Food
+753.6,Book Store,5/5/2024,Shopping
+916.18,Consulting Fee,11/27/2023,Services
+6.84,Restaurant,8/20/2023,Food
+109.0,Business Service,12/26/2023,Services
+107.69,Investment,12/15/2023,Investments
+795.27,Deli,1/15/2024,other
+282.71,Courier Service,1/24/2024,Transportation
+843.47,Book Store,4/29/2024,Shopping
+794.7,Airline Ticket,10/28/2023,Transportation
+147.13,Subscription Box,10/19/2023,Entertainment
+405.76,Home Improvement,6/16/2024,Home
+864.7,Grocery Store,8/26/2023,Food
+492.28,Parking,6/20/2024,Transportation
+730.49,Subscription Box,9/4/2023,Entertainment
+573.95,Amazon,5/13/2024,Shopping
+261.79,Deli,7/6/2024,other
+493.85,Taxi,5/8/2024,Transportation
+989.34,Gift Shop,11/28/2023,Personal Care
+644.81,Vet Visit,3/12/2024,Health
+328.05,Movie Theater,8/3/2023,Entertainment
+875.47,Broker Fee,1/25/2024,other
+564.95,House Cleaning,11/20/2023,Home
+170.77,Video Game Store,5/27/2024,other
+971.62,Property Tax,4/27/2024,Home
+324.86,Deli,5/13/2024,other
+603.52,Streaming Service,3/27/2024,Entertainment
+891.31,Subscription Box,7/30/2024,Entertainment
+423.34,Public Transport,12/7/2023,Transportation
+51.27,Clothing Store,11/15/2023,Shopping
+95.36,Taxi,11/30/2023,Transportation
+322.78,Hardware Purchase,1/25/2024,Shopping
+7.45,Butcher,12/26/2023,Food
+450.98,Amazon,9/1/2023,Shopping
+60.09,Public Transport,9/3/2023,Transportation
+824.31,Spotify,5/15/2024,other
+214.32,Online Course,10/1/2023,Entertainment
+387.15,Consulting Fee,11/4/2023,Services
+263.18,Bakery,8/28/2023,Food
+309.8,Parking,7/10/2024,Transportation
+679.28,Music Instrument Store,7/11/2024,Shopping
+453.48,Florist,8/1/2023,Personal Care
+106.32,Butcher,2/17/2024,Food
+200.87,Car Rental,3/31/2024,Transportation
+666.49,Uber,1/6/2024,Transportation
+864.35,Movie Theater,6/24/2024,Entertainment
+191.96,Music Instrument Store,7/18/2024,Shopping
+155.6,Consulting Fee,1/16/2024,Services
+44.14,Amazon,12/8/2023,Shopping
+951.0,Property Tax,10/22/2023,Home
+708.57,Charity Donation,3/30/2024,Charity
+575.6,Gym Membership,5/4/2024,other
+247.26,Butcher,8/20/2023,Food
+681.5,Rent,3/11/2024,other
+122.82,Software Purchase,1/9/2024,other
+641.99,Spa,9/23/2023,Personal Care
+34.87,Home Improvement,11/9/2023,Home
+566.18,Home Improvement,9/6/2023,Home
+870.91,Consulting Fee,3/9/2024,Services
+628.63,Restaurant,12/4/2023,Food
+81.7,Deli,6/2/2024,other
+356.37,Gift Shop,6/26/2024,Personal Care
+509.5,Parking,12/3/2023,Transportation
+736.51,Hotel,10/24/2023,other
+121.04,Netflix,1/19/2024,Entertainment
+17.47,Video Game Store,5/29/2024,other
+804.04,Streaming Service,8/4/2023,Entertainment
+614.78,Florist,12/20/2023,Personal Care
+634.8,Freelance Payment,6/5/2024,Services
+75.91,Lottery Ticket,5/22/2024,Other
+621.67,House Cleaning,9/20/2023,Home
+395.28,Consulting Fee,7/12/2024,Services
+354.73,Gym Membership,5/14/2024,other
+755.55,Spa,12/2/2023,Personal Care
+893.45,Public Transport,11/6/2023,Transportation
+298.43,Spa,7/17/2024,Personal Care
+432.64,Charity Donation,4/27/2024,Charity
+409.37,Grocery Store,4/29/2024,Food
+46.11,Courier Service,7/12/2024,Transportation
+965.87,Netflix,12/31/2023,Entertainment
+201.71,Vet Visit,12/5/2023,Health
+405.06,Gift Shop,2/12/2024,Personal Care
+281.47,Parking,8/3/2023,Transportation
+171.81,House Cleaning,10/18/2023,Home
+858.37,Insurance Payment,8/22/2023,other
+383.28,Streaming Service,4/16/2024,Entertainment
+807.85,Business Service,1/30/2024,Services
+853.06,Insurance Payment,9/29/2023,other
+164.29,Legal Service,7/27/2024,Services
+831.48,Bank Fee,1/28/2024,Other
+367.57,Restaurant,10/29/2023,Food
+299.53,Hair Salon,9/17/2023,Personal Care
+905.05,Vet Visit,5/12/2024,Health
+533.95,Book Store,8/5/2023,Shopping
+901.25,Courier Service,6/28/2024,Transportation
+895.7,Hotel,10/7/2023,other
+490.43,Spotify,11/27/2023,other
+755.34,Property Tax,10/2/2023,Home
+29.86,Freelance Payment,3/26/2024,Services
+533.5,Doctor's Visit,10/10/2023,Health
+233.63,Rent,1/19/2024,other
+169.35,Insurance Payment,4/1/2024,other
+634.01,Dentist,5/6/2024,Health
+149.41,Business Service,5/10/2024,Services
+646.56,Utility Bill,2/11/2024,other
+453.58,Netflix,3/14/2024,Entertainment
+276.11,Taxi,11/10/2023,Transportation
+337.16,Taxi,11/17/2023,Transportation
+684.8,Legal Service,12/3/2023,Services
+554.48,Freelance Payment,5/14/2024,Services
+682.64,Doctor's Visit,8/1/2024,Health
+256.25,Lottery Ticket,7/25/2024,Other
+278.17,Legal Service,6/29/2024,Services
+921.44,Business Service,3/18/2024,Services
+171.58,House Cleaning,7/25/2024,Home
+166.45,Insurance Payment,1/26/2024,other
+212.76,Dentist,4/17/2024,Health
+655.18,Furniture Store,7/31/2024,Shopping
+775.37,Property Tax,5/8/2024,Home
+922.75,Mortgage,11/26/2023,Investments
+25.42,Hair Salon,3/5/2024,Personal Care
+467.66,Rent,4/12/2024,other
+709.03,Courier Service,10/2/2023,Transportation
+870.16,Maintenance Fee,5/1/2024,Services
+749.17,Parking,9/17/2023,Transportation
+991.87,Taxi,7/11/2024,Transportation
+759.09,Butcher,5/3/2024,Food
+907.41,Courier Service,1/28/2024,Transportation
+67.48,Home Improvement,3/14/2024,Home
+667.18,Gardening Service,11/19/2023,Services
+610.91,Bank Fee,7/12/2024,Other
+127.96,Spa,1/23/2024,Personal Care
+920.05,Software Purchase,9/22/2023,other
+818.62,Uber,4/20/2024,Transportation
+528.43,Hardware Purchase,7/30/2024,Shopping
+708.09,Charity Donation,3/30/2024,Charity
+302.7,Gardening Service,5/8/2024,Services
+231.17,Online Course,8/31/2023,Entertainment
+546.14,Broker Fee,6/26/2024,other
+873.42,Netflix,10/28/2023,Entertainment
+867.75,Airline Ticket,10/23/2023,Transportation
+982.98,Property Tax,8/19/2023,Home
+618.58,Charity Donation,10/18/2023,Charity
+29.9,Business Service,5/21/2024,Services
+603.05,Hair Salon,9/1/2023,Personal Care
+429.79,Book Store,2/28/2024,Shopping
+636.59,Uber,6/25/2024,Transportation
+630.1,Vet Visit,4/20/2024,Health
+242.85,Legal Service,5/24/2024,Services
+806.85,Restaurant,1/9/2024,Food
+672.99,Grocery Store,9/11/2023,Food
+871.09,Doctor's Visit,9/30/2023,Health
+777.23,Consulting Fee,5/25/2024,Services
+861.81,Gym Membership,10/10/2023,other
+68.18,Furniture Store,8/19/2023,Shopping
+950.48,Spotify,8/7/2023,other
+8.11,Taxi,1/22/2024,Transportation
+237.01,Online Course,4/9/2024,Entertainment
+742.86,Consulting Fee,3/6/2024,Services
+204.7,Clothing Store,12/8/2023,Shopping
+257.54,Software Purchase,7/19/2024,other
+225.28,Bank Fee,11/8/2023,Other
+745.05,Parking,4/29/2024,Transportation
+463.38,Consulting Fee,5/7/2024,Services
+362.7,Concert Ticket,10/19/2023,Entertainment
+598.98,Parking,7/11/2024,Transportation
+229.45,Electronics Store,7/25/2024,Shopping
+95.09,Freelance Payment,3/15/2024,Services
+669.65,Gym Membership,11/27/2023,other
+741.82,Subscription Box,9/22/2023,Entertainment
+392.25,Rent,1/5/2024,other
+194.87,Uber,10/4/2023,Transportation
+446.1,Music Instrument Store,12/29/2023,Shopping
+624.76,Car Rental,12/21/2023,Transportation
+453.29,Software Purchase,1/6/2024,other
+963.82,Gift Shop,4/5/2024,Personal Care
+202.59,Fitness Equipment,7/17/2024,other
+965.18,Legal Service,2/12/2024,Services
+738.17,Coffee Shop,3/20/2024,Food
+154.09,Netflix,8/19/2023,Entertainment
+116.28,Butcher,10/12/2023,Food
+846.01,Clothing Store,6/4/2024,Shopping
+798.57,Mortgage,4/12/2024,Investments
+61.59,Gym Membership,3/9/2024,other
+869.29,Netflix,6/28/2024,Entertainment
+114.52,Rent,1/24/2024,other
+704.22,Business Service,8/30/2023,Services
+963.86,Childcare Service,2/27/2024,Services
+141.91,Public Transport,2/23/2024,Transportation
+629.66,Video Game Store,10/10/2023,other
+329.67,Fast Food,9/26/2023,Food
+600.27,Property Tax,6/15/2024,Home
+199.42,Investment,7/27/2024,Investments
+409.96,Amazon,4/19/2024,Shopping
+187.63,Gift Shop,11/12/2023,Personal Care
+453.05,Mortgage,7/12/2024,Investments
+503.9,Maintenance Fee,4/15/2024,Services
+20.3,Music Instrument Store,2/6/2024,Shopping
+730.01,Pharmacy,5/9/2024,Health
+794.6,Bakery,6/29/2024,Food
+224.05,Gas Station,3/21/2024,Transportation
+191.94,Mortgage,5/28/2024,Investments
+393.12,Car Rental,9/13/2023,Transportation
+270.83,Education Fee,5/12/2024,Services
+61.94,Clothing Store,6/19/2024,Shopping
+543.09,Utility Bill,10/5/2023,other
+951.09,Airline Ticket,11/16/2023,Transportation
+252.42,Book Store,7/17/2024,Shopping
+323.61,Video Game Store,11/2/2023,other
+707.95,Hair Salon,6/30/2024,Personal Care
+451.05,Broker Fee,2/27/2024,other
+378.6,Mortgage,7/29/2024,Investments
+766.89,Home Improvement,2/11/2024,Home
+126.09,Fitness Equipment,10/21/2023,other
+328.26,Hair Salon,8/29/2023,Personal Care
+520.92,Coffee Shop,2/21/2024,Food
+322.18,Hotel,11/13/2023,other
+340.19,Home Improvement,12/26/2023,Home
+162.86,Amazon,4/30/2024,Shopping
+975.71,Investment,11/14/2023,Investments
+994.65,Mortgage,8/3/2023,Investments
+349.33,Clothing Store,12/29/2023,Shopping
+375.27,Concert Ticket,10/5/2023,Entertainment
+323.48,Freelance Payment,7/1/2024,Services
+24.79,Furniture Store,5/23/2024,Shopping
+264.79,Gas Station,4/22/2024,Transportation
+310.43,Pharmacy,5/6/2024,Health
+151.97,Butcher,4/23/2024,Food
+105.46,Public Transport,5/31/2024,Transportation
+814.54,Coffee Shop,9/28/2023,Food
+885.89,Doctor's Visit,11/10/2023,Health
+995.73,Subscription Box,8/3/2023,Entertainment
+977.57,Gift Shop,3/27/2024,Personal Care
+531.61,Gift Shop,4/7/2024,Personal Care
+444.97,Maintenance Fee,1/30/2024,Services
+692.24,Deli,3/18/2024,other
+583.18,Bakery,2/15/2024,Food
+7.17,Fast Food,11/10/2023,Food
+97.7,Consulting Fee,6/20/2024,Services
+51.43,Lottery Ticket,3/19/2024,Other
+672.89,Concert Ticket,4/13/2024,Entertainment
+277.69,Pet Store,7/27/2024,other
+446.18,Parking,10/22/2023,Transportation
+364.8,Maintenance Fee,10/31/2023,Services
+658.48,Freelance Payment,10/6/2023,Services
+969.9,Broker Fee,11/2/2023,other
+397.38,Hair Salon,10/29/2023,Personal Care
+99.35,Education Fee,7/11/2024,Services
+573.08,Hotel,5/18/2024,other
+804.3,Spa,5/2/2024,Personal Care
+86.2,Book Store,7/8/2024,Shopping
+617.42,Butcher,11/9/2023,Food
+877.86,Taxi,5/25/2024,Transportation
+778.3,Freelance Payment,6/12/2024,Services
+688.83,Amazon,7/19/2024,Shopping
+413.33,House Cleaning,5/29/2024,Home
+735.52,Coffee Shop,3/18/2024,Food
+704.75,Uber,7/3/2024,Transportation
+868.45,Software Purchase,11/28/2023,other
+805.81,Pharmacy,2/7/2024,Health
+713.91,Home Improvement,9/29/2023,Home
+96.19,Charity Donation,6/5/2024,Charity
+994.42,Bank Fee,5/4/2024,Other
+29.14,Charity Donation,5/14/2024,Charity
+27.28,Clothing Store,12/18/2023,Shopping
+986.07,Broker Fee,6/16/2024,other
+27.84,Software Purchase,6/12/2024,other
+231.77,Book Store,11/18/2023,Shopping
+104.47,Video Game Store,10/17/2023,other
+103.76,Clothing Store,1/1/2024,Shopping
+460.91,Insurance Payment,7/24/2024,other
+220.59,Deli,10/22/2023,other
+497.31,Car Rental,3/13/2024,Transportation
+102.22,Lottery Ticket,7/8/2024,Other
+636.24,Concert Ticket,9/3/2023,Entertainment
+954.74,Electronics Store,5/1/2024,Shopping
+760.93,Concert Ticket,1/13/2024,Entertainment
+802.95,Property Tax,6/2/2024,Home
+694.64,Book Store,2/11/2024,Shopping
+345.21,Spotify,3/13/2024,other
+349.92,Florist,1/20/2024,Personal Care
+160.75,Public Transport,1/5/2024,Transportation
+170.39,Hardware Purchase,6/4/2024,Shopping
+517.87,Online Course,5/17/2024,Entertainment
+154.93,Car Rental,12/9/2023,Transportation
+307.79,Home Improvement,8/1/2024,Home
+48.87,Furniture Store,6/16/2024,Shopping
+781.8,Lottery Ticket,3/7/2024,Other
+485.21,Fitness Equipment,12/1/2023,other
+714.78,Streaming Service,7/22/2024,Entertainment
+616.66,Airline Ticket,12/12/2023,Transportation
+761.32,Hair Salon,10/10/2023,Personal Care
+649.45,Insurance Payment,8/2/2023,other
+42.37,Coffee Shop,1/5/2024,Food
+955.54,Amazon,9/28/2023,Shopping
+881.27,Spa,4/23/2024,Personal Care
+421.6,Florist,3/8/2024,Personal Care
+498.7,Gas Station,12/10/2023,Transportation
+183.62,Bakery,9/18/2023,Food
+767.49,Subscription Box,10/26/2023,Entertainment
+309.45,Childcare Service,12/20/2023,Services
+141.81,Streaming Service,12/16/2023,Entertainment
+719.26,Software Purchase,4/9/2024,other
+726.58,Fast Food,6/28/2024,Food
+187.98,Doctor's Visit,7/8/2024,Health
+22.4,Investment,12/12/2023,Investments
+877.71,Bank Fee,3/26/2024,Other
+731.71,Rent,7/10/2024,other
+296.27,Concert Ticket,12/24/2023,Entertainment
+138.58,Restaurant,8/13/2023,Food
+703.36,Hotel,12/6/2023,other
+951.08,Spotify,4/11/2024,other
+750.81,Electronics Store,1/24/2024,Shopping
+844.36,Taxi,9/18/2023,Transportation
+936.68,Investment,9/5/2023,Investments
+457.77,Grocery Store,5/20/2024,Food
+480.62,Clothing Store,1/8/2024,Shopping
+394.45,House Cleaning,12/9/2023,Home
+675.14,Maintenance Fee,6/18/2024,Services
+599.05,Utility Bill,1/18/2024,other
+523.67,Pet Store,9/26/2023,other
+148.52,Charity Donation,9/17/2023,Charity
+862.88,Fast Food,11/9/2023,Food
+700.66,Gardening Service,6/19/2024,Services
+105.97,Furniture Store,3/27/2024,Shopping
+731.59,Lottery Ticket,12/17/2023,Other
+564.05,Consulting Fee,4/1/2024,Services
+354.51,Lottery Ticket,3/21/2024,Other
+724.86,Hotel,10/12/2023,other
+301.9,Bakery,3/30/2024,Food
+916.08,Doctor's Visit,4/12/2024,Health
+986.94,Video Game Store,9/19/2023,other
+251.81,Legal Service,2/6/2024,Services
+952.04,Vet Visit,4/3/2024,Health
+914.41,Taxi,11/28/2023,Transportation
+82.76,Grocery Store,10/20/2023,Food
+264.4,Gardening Service,2/9/2024,Services
+741.75,Accounting Service,4/30/2024,Services
+898.02,Rent,9/28/2023,other
+435.67,Fitness Equipment,12/2/2023,other
+102.42,Hardware Purchase,11/26/2023,Shopping
+603.34,Hardware Purchase,11/23/2023,Shopping
+402.81,Pet Store,5/7/2024,other
+966.12,Taxi,7/3/2024,Transportation
+128.69,Grocery Store,9/6/2023,Food
+150.15,Gardening Service,1/24/2024,Services
+160.46,Vet Visit,4/27/2024,Health
+365.68,Consulting Fee,4/22/2024,Services
+573.02,Coffee Shop,1/31/2024,Food
+624.76,Uber,10/16/2023,Transportation
+245.1,Accounting Service,11/13/2023,Services
+821.85,Consulting Fee,12/6/2023,Services
+993.18,Clothing Store,3/1/2024,Shopping
+868.48,Clothing Store,8/1/2023,Shopping
+37.14,Accounting Service,8/2/2023,Services
+907.02,Public Transport,6/8/2024,Transportation
+74.35,Insurance Payment,11/6/2023,other
+793.16,Furniture Store,4/23/2024,Shopping
+170.12,Streaming Service,9/17/2023,Entertainment
+497.25,Book Store,11/25/2023,Shopping
+561.67,Doctor's Visit,5/24/2024,Health
+650.37,Taxi,11/9/2023,Transportation
+606.24,Hair Salon,7/31/2024,Personal Care
+825.18,Movie Theater,3/1/2024,Entertainment
+927.61,Bakery,6/8/2024,Food
+927.94,Netflix,11/7/2023,Entertainment
+362.88,Book Store,8/6/2023,Shopping
+62.37,Hair Salon,5/6/2024,Personal Care
+507.75,Spa,10/25/2023,Personal Care
+170.01,Vet Visit,6/1/2024,Health
+817.25,Hardware Purchase,3/27/2024,Shopping
+529.55,Subscription Box,4/18/2024,Entertainment
+97.31,Gas Station,9/5/2023,Transportation
+259.85,Pharmacy,5/28/2024,Health
+716.79,Lottery Ticket,12/5/2023,Other
+55.44,Pet Store,8/11/2023,other
+174.44,Online Course,1/25/2024,Entertainment
+624.85,Spotify,1/1/2024,other
+930.6,Pharmacy,5/5/2024,Health
+611.67,Concert Ticket,11/26/2023,Entertainment
+761.3,Business Service,7/19/2024,Services
+519.25,Insurance Payment,11/15/2023,other
+589.8,Rent,8/8/2023,other
+440.4,Business Service,2/12/2024,Services
+982.57,Pharmacy,4/28/2024,Health
+523.65,Bakery,4/29/2024,Food
+399.06,Rent,6/13/2024,other
+442.76,Movie Theater,2/29/2024,Entertainment
+487.17,House Cleaning,4/12/2024,Home
+88.37,Netflix,9/22/2023,Entertainment
+843.9,Fitness Equipment,4/4/2024,other
+201.44,Doctor's Visit,6/7/2024,Health
+673.83,Bakery,3/23/2024,Food
+26.97,Courier Service,1/23/2024,Transportation
+948.17,Broker Fee,8/1/2023,other
+652.89,Spotify,1/16/2024,other
+362.14,Childcare Service,5/28/2024,Services
+7.0,Book Store,3/14/2024,Shopping
+443.8,Property Tax,12/16/2023,Home
+57.21,Car Rental,10/27/2023,Transportation
+379.34,Uber,1/17/2024,Transportation
+660.13,Utility Bill,5/18/2024,other
+406.26,Public Transport,4/8/2024,Transportation
+149.4,Book Store,12/26/2023,Shopping
+42.37,Florist,12/30/2023,Personal Care
+130.36,Freelance Payment,10/29/2023,Services
+419.56,Movie Theater,11/24/2023,Entertainment
+281.12,Accounting Service,6/8/2024,Services
+211.76,Butcher,11/2/2023,Food
+311.71,Broker Fee,11/30/2023,other
+945.6,Pet Store,8/20/2023,other
+491.34,Hotel,12/30/2023,other
+322.85,Gardening Service,3/29/2024,Services
+802.96,Investment,4/16/2024,Investments
+852.46,Coffee Shop,12/16/2023,Food
+930.33,Bakery,4/22/2024,Food
+213.76,Coffee Shop,9/29/2023,Food
+849.99,Software Purchase,7/7/2024,other
+874.37,Utility Bill,2/1/2024,other
+499.83,Utility Bill,4/10/2024,other
+433.46,Pharmacy,8/11/2023,Health
+635.22,Airline Ticket,10/19/2023,Transportation
+99.78,Public Transport,8/28/2023,Transportation
+109.19,Dentist,7/27/2024,Health
+972.68,Netflix,6/14/2024,Entertainment
+944.01,Investment,12/19/2023,Investments
+568.63,Taxi,6/4/2024,Transportation
+383.1,Childcare Service,5/12/2024,Services
+515.75,Florist,5/2/2024,Personal Care
+628.69,Coffee Shop,9/9/2023,Food
+331.63,Streaming Service,8/19/2023,Entertainment
+699.48,Vet Visit,3/1/2024,Health
+714.37,Legal Service,12/2/2023,Services
+537.08,Dentist,1/30/2024,Health
+111.91,Childcare Service,1/1/2024,Services
+215.43,Butcher,5/15/2024,Food
+657.26,Airline Ticket,12/3/2023,Transportation
+959.19,Taxi,1/6/2024,Transportation
+322.71,Restaurant,10/9/2023,Food
+578.63,Investment,6/12/2024,Investments
+654.29,Education Fee,8/23/2023,Services
+769.16,Book Store,3/23/2024,Shopping
+506.48,Furniture Store,8/2/2023,Shopping
+480.22,Doctor's Visit,11/13/2023,Health
+818.19,Education Fee,8/7/2023,Services
+653.16,Bakery,11/3/2023,Food
+65.46,Restaurant,7/12/2024,Food
+41.04,Gas Station,7/4/2024,Transportation
+26.04,Pharmacy,3/7/2024,Health
+612.62,Accounting Service,8/4/2023,Services
+890.79,Movie Theater,8/14/2023,Entertainment
+929.27,Home Improvement,11/3/2023,Home
+536.36,Amazon,2/26/2024,Shopping
+577.2,Florist,7/23/2024,Personal Care
+313.46,Hotel,3/17/2024,other
+529.68,Dentist,8/27/2023,Health
+796.1,Amazon,6/22/2024,Shopping
+92.01,Doctor's Visit,9/25/2023,Health
+269.77,Airline Ticket,9/28/2023,Transportation
+360.74,Uber,6/2/2024,Transportation
+982.34,Public Transport,2/2/2024,Transportation
+195.46,Butcher,4/28/2024,Food
+525.07,Spotify,11/4/2023,other
+688.89,Hardware Purchase,12/13/2023,Shopping
+109.21,Insurance Payment,6/6/2024,other
+540.38,Music Instrument Store,4/19/2024,Shopping
+458.61,Pet Store,4/18/2024,other
+782.66,Pharmacy,5/13/2024,Health
+797.08,Mortgage,11/12/2023,Investments
+100.96,Property Tax,11/20/2023,Home
+237.39,Uber,10/3/2023,Transportation
+273.82,Insurance Payment,5/11/2024,other
+781.79,Business Service,10/28/2023,Services
+998.02,Investment,9/14/2023,Investments
+732.82,Mortgage,1/4/2024,Investments
+915.02,Bakery,2/3/2024,Food
+259.04,Courier Service,10/5/2023,Transportation
+789.32,Uber,2/20/2024,Transportation
+716.63,Netflix,3/23/2024,Entertainment
+159.59,House Cleaning,5/31/2024,Home
+512.31,Deli,1/26/2024,other
+720.1,Courier Service,5/13/2024,Transportation
+709.49,Home Improvement,5/30/2024,Home
+227.55,Fitness Equipment,1/5/2024,other
+768.21,Bakery,6/29/2024,Food
+797.83,Restaurant,11/27/2023,Food
+394.45,Florist,8/17/2023,Personal Care
+724.86,Education Fee,2/13/2024,Services
+483.8,Deli,7/28/2024,other
+295.01,Fitness Equipment,12/14/2023,other
+206.15,Vet Visit,12/18/2023,Health
+624.11,Restaurant,9/28/2023,Food
+581.55,Video Game Store,3/25/2024,other
+25.52,Charity Donation,10/4/2023,Charity
+455.28,Music Instrument Store,5/1/2024,Shopping
+490.11,Gas Station,9/21/2023,Transportation
+679.33,Amazon,1/1/2024,Shopping
+419.94,Gift Shop,12/28/2023,Personal Care
+469.07,Business Service,3/25/2024,Services
+469.61,Bank Fee,2/9/2024,Other
+758.41,Hardware Purchase,8/12/2023,Shopping
+231.63,Home Improvement,4/26/2024,Home
+293.45,Butcher,2/13/2024,Food
+180.51,Vet Visit,7/6/2024,Health
+713.47,Coffee Shop,2/6/2024,Food
+121.02,Education Fee,8/25/2023,Services
+980.73,Netflix,6/13/2024,Entertainment
+170.97,Deli,4/22/2024,other
+434.3,Business Service,8/21/2023,Services
+673.29,Pet Store,12/1/2023,other
+359.3,Education Fee,5/19/2024,Services
+36.43,Gas Station,11/29/2023,Transportation
+449.51,Hardware Purchase,7/11/2024,Shopping
+848.49,Software Purchase,4/6/2024,other
+843.15,Hotel,2/13/2024,other
+150.66,Gardening Service,7/24/2024,Services
+174.79,Gift Shop,10/7/2023,Personal Care
+391.54,Streaming Service,5/10/2024,Entertainment
+250.53,Home Improvement,9/28/2023,Home
+423.39,Video Game Store,7/9/2024,other
+840.38,Spotify,4/28/2024,other
+206.87,Business Service,3/23/2024,Services
+982.03,Spotify,7/26/2024,other
+904.65,Butcher,6/22/2024,Food
+562.13,Spotify,7/21/2024,other
+915.41,Concert Ticket,9/5/2023,Entertainment
+421.87,Butcher,8/3/2023,Food
+375.55,Streaming Service,8/22/2023,Entertainment
+358.81,Grocery Store,7/30/2024,Food
+204.87,Broker Fee,10/23/2023,other
+360.83,Restaurant,7/27/2024,Food
+468.76,Parking,7/8/2024,Transportation
+81.08,Vet Visit,2/27/2024,Health
+563.97,Bank Fee,3/30/2024,Other
+898.72,Gardening Service,7/2/2024,Services
+596.24,Movie Theater,8/14/2023,Entertainment
+474.29,Hair Salon,3/9/2024,Personal Care
+854.91,Music Instrument Store,2/19/2024,Shopping
+588.71,Charity Donation,6/25/2024,Charity
+558.13,Freelance Payment,3/25/2024,Services
+119.01,Lottery Ticket,5/25/2024,Other
+405.61,Freelance Payment,5/1/2024,Services
+965.61,Software Purchase,10/8/2023,other
+535.7,Gas Station,11/29/2023,Transportation
+503.24,Consulting Fee,3/1/2024,Services
+96.87,Airline Ticket,1/27/2024,Transportation
+206.18,Bank Fee,2/22/2024,Other
+397.9,Software Purchase,9/20/2023,other
+476.67,Subscription Box,1/26/2024,Entertainment
+891.23,Charity Donation,1/3/2024,Charity
+612.57,Public Transport,1/31/2024,Transportation
+41.59,Spa,1/25/2024,Personal Care
+72.61,Hair Salon,8/14/2023,Personal Care
+614.51,Spotify,9/4/2023,other
+437.46,Clothing Store,5/15/2024,Shopping
+828.75,Education Fee,1/13/2024,Services
+333.66,Hotel,12/13/2023,other
+223.81,Movie Theater,11/11/2023,Entertainment
+128.9,Movie Theater,11/4/2023,Entertainment
+28.61,Coffee Shop,10/26/2023,Food
+563.41,Streaming Service,8/18/2023,Entertainment
+510.15,Gym Membership,9/29/2023,other
+614.08,Fitness Equipment,9/10/2023,other
+585.28,Electronics Store,4/21/2024,Shopping
+13.48,Legal Service,3/13/2024,Services
+521.36,Movie Theater,5/5/2024,Entertainment
+291.93,Freelance Payment,4/17/2024,Services
+748.03,Pharmacy,8/11/2023,Health
+680.17,Bakery,12/21/2023,Food
+37.86,Gas Station,4/1/2024,Transportation
+98.35,Business Service,2/5/2024,Services
+970.26,Gift Shop,9/1/2023,Personal Care
+68.5,Hardware Purchase,3/14/2024,Shopping
+883.93,Public Transport,4/8/2024,Transportation
+468.8,Deli,5/20/2024,other
+998.13,Butcher,11/4/2023,Food
+34.04,Car Rental,10/28/2023,Transportation
+618.61,Fast Food,8/24/2023,Food
+948.71,Grocery Store,10/28/2023,Food
+772.08,Uber,6/9/2024,Transportation
+647.9,Freelance Payment,6/1/2024,Services
+848.53,Doctor's Visit,11/17/2023,Health
+897.34,Book Store,7/29/2024,Shopping
+472.38,Bank Fee,7/22/2024,Other
+261.41,Deli,1/25/2024,other
+689.49,Insurance Payment,12/29/2023,other
+545.17,Pet Store,9/1/2023,other
+273.05,Music Instrument Store,12/11/2023,Shopping
+50.56,Insurance Payment,7/19/2024,other
+967.54,Video Game Store,11/7/2023,other
+530.24,Home Improvement,2/23/2024,Home
+767.1,Taxi,1/2/2024,Transportation
+339.54,Accounting Service,2/7/2024,Services
+854.19,Fast Food,3/17/2024,Food
+975.21,Consulting Fee,5/28/2024,Services
+342.74,Business Service,1/28/2024,Services
+924.84,Broker Fee,8/12/2023,other
+71.79,Bank Fee,2/22/2024,Other
+522.16,Home Improvement,4/27/2024,Home
+881.97,Education Fee,6/1/2024,Services
+510.41,Parking,3/15/2024,Transportation
+707.45,Book Store,1/27/2024,Shopping
+337.11,House Cleaning,5/1/2024,Home
+496.97,Deli,12/3/2023,other
+668.52,Fast Food,7/2/2024,Food
+34.6,Movie Theater,9/23/2023,Entertainment
+616.99,Restaurant,9/7/2023,Food
+990.93,Bakery,5/3/2024,Food
+495.87,Online Course,5/26/2024,Entertainment
+398.83,Hair Salon,1/29/2024,Personal Care
+14.24,Airline Ticket,5/8/2024,Transportation
+576.72,Home Improvement,3/24/2024,Home
+749.0,Hotel,9/20/2023,other
+250.37,Gym Membership,11/18/2023,other
+451.97,Consulting Fee,3/28/2024,Services
+508.78,Bank Fee,10/21/2023,Other
+793.78,Software Purchase,7/2/2024,other
+92.48,Childcare Service,1/19/2024,Services
+354.7,Investment,12/10/2023,Investments
+266.96,Restaurant,6/3/2024,Food
+385.57,Airline Ticket,2/25/2024,Transportation
+616.67,Mortgage,10/13/2023,Investments
+646.5,Accounting Service,2/23/2024,Services
+223.38,Netflix,12/25/2023,Entertainment
+194.17,Fitness Equipment,9/15/2023,other
+879.94,Gas Station,7/26/2024,Transportation
+759.38,Bakery,10/28/2023,Food
+747.47,Mortgage,1/20/2024,Investments
+662.02,Music Instrument Store,1/16/2024,Shopping
+994.2,Gardening Service,12/15/2023,Services
+907.0,Spa,3/11/2024,Personal Care
+262.67,Doctor's Visit,3/3/2024,Health
+446.38,Pet Store,9/2/2023,other
+768.91,Courier Service,4/14/2024,Transportation
+34.45,Legal Service,9/13/2023,Services
+716.67,Education Fee,5/26/2024,Services
+167.24,Vet Visit,5/27/2024,Health
+446.59,Accounting Service,2/1/2024,Services
+941.54,Music Instrument Store,6/24/2024,Shopping
+930.95,Coffee Shop,1/19/2024,Food
+732.12,Courier Service,11/21/2023,Transportation
+961.26,Parking,11/16/2023,Transportation
+736.68,Clothing Store,6/3/2024,Shopping
+51.16,Gas Station,1/17/2024,Transportation
+633.03,Courier Service,7/29/2024,Transportation
+282.33,Electronics Store,4/23/2024,Shopping
+934.91,Bank Fee,7/11/2024,Other
+469.78,Bank Fee,1/28/2024,Other
+583.21,Spa,10/25/2023,Personal Care
+191.24,Gas Station,1/26/2024,Transportation
+706.07,Coffee Shop,1/14/2024,Food
+823.93,Maintenance Fee,3/14/2024,Services
+73.88,Childcare Service,8/31/2023,Services
+751.21,Uber,1/27/2024,Transportation
+510.35,Clothing Store,11/20/2023,Shopping
+568.25,Hair Salon,12/16/2023,Personal Care
+355.18,Parking,4/5/2024,Transportation
+105.98,Clothing Store,7/21/2024,Shopping
+991.51,Airline Ticket,1/1/2024,Transportation
+484.64,Uber,6/13/2024,Transportation
+833.92,Gift Shop,1/16/2024,Personal Care
+374.28,Accounting Service,6/15/2024,Services
+659.27,Childcare Service,6/7/2024,Services
+368.21,Video Game Store,12/10/2023,other
+674.48,Lottery Ticket,5/16/2024,Other
+426.92,Grocery Store,12/30/2023,Food
+280.64,Spotify,10/18/2023,other
+840.51,Pet Store,7/3/2024,other
+876.37,Uber,11/11/2023,Transportation
+552.55,Pharmacy,3/30/2024,Health
+450.72,Subscription Box,3/25/2024,Entertainment
+940.71,Rent,9/25/2023,other
+288.35,Fitness Equipment,12/22/2023,other
+218.5,Lottery Ticket,9/22/2023,Other
+100.47,Pharmacy,2/29/2024,Health
+728.06,Bakery,3/24/2024,Food
+959.02,Childcare Service,10/3/2023,Services
+856.65,Pharmacy,12/18/2023,Health
+862.27,Taxi,2/1/2024,Transportation
+12.98,Courier Service,3/28/2024,Transportation
+905.03,Coffee Shop,2/6/2024,Food
+200.53,Insurance Payment,2/29/2024,other
+430.49,Deli,7/12/2024,other
+173.7,Online Course,5/9/2024,Entertainment
+575.4,Netflix,2/6/2024,Entertainment
+946.89,Pharmacy,2/2/2024,Health
+452.62,Butcher,7/1/2024,Food
+824.25,Butcher,10/2/2023,Food
+809.42,Pet Store,4/5/2024,other
+361.08,Restaurant,2/15/2024,Food
+615.2,Business Service,8/29/2023,Services
+634.07,Gift Shop,7/23/2024,Personal Care
+868.81,Gift Shop,12/4/2023,Personal Care
+70.06,Accounting Service,9/8/2023,Services
+22.42,Airline Ticket,3/13/2024,Transportation
+901.7,Insurance Payment,12/13/2023,other
+270.77,Video Game Store,10/26/2023,other
+323.31,Broker Fee,2/15/2024,other
+842.32,Music Instrument Store,5/17/2024,Shopping
+555.44,Hotel,9/1/2023,other
+597.34,Parking,10/3/2023,Transportation
+231.07,Doctor's Visit,10/4/2023,Health
+328.57,Property Tax,1/12/2024,Home
+226.54,Software Purchase,9/19/2023,other
+218.31,Pet Store,11/13/2023,other
+300.91,Gas Station,4/12/2024,Transportation
+79.81,Fitness Equipment,11/25/2023,other
+256.85,Gift Shop,5/19/2024,Personal Care
+527.51,Business Service,7/23/2024,Services
+530.77,Freelance Payment,6/26/2024,Services
+266.84,Music Instrument Store,4/13/2024,Shopping
+687.53,Butcher,5/6/2024,Food
+279.64,Video Game Store,11/3/2023,other
+788.7,Coffee Shop,8/17/2023,Food
+346.74,Legal Service,9/27/2023,Services
+33.06,Home Improvement,2/9/2024,Home
+652.17,Consulting Fee,5/11/2024,Services
+582.02,Courier Service,3/28/2024,Transportation
+561.56,Childcare Service,7/10/2024,Services
+112.17,Movie Theater,5/29/2024,Entertainment
+220.33,Education Fee,2/19/2024,Services
+614.0,Spotify,3/9/2024,other
+450.3,Book Store,8/18/2023,Shopping
+645.18,Taxi,12/31/2023,Transportation
+577.03,Fitness Equipment,10/1/2023,other
+322.02,Vet Visit,4/8/2024,Health
+834.77,Deli,6/24/2024,other
+482.55,Dentist,3/31/2024,Health
+125.77,Bakery,9/16/2023,Food
+576.44,Taxi,12/14/2023,Transportation
+866.02,Uber,3/10/2024,Transportation
+868.97,Concert Ticket,12/18/2023,Entertainment
+549.51,Movie Theater,12/25/2023,Entertainment
+213.59,Utility Bill,7/31/2024,other
+330.07,Accounting Service,5/14/2024,Services
+991.04,Electronics Store,7/21/2024,Shopping
+553.04,House Cleaning,12/26/2023,Home
+850.27,Property Tax,6/29/2024,Home
+681.04,Hotel,1/27/2024,other
+812.83,Home Improvement,10/21/2023,Home
+174.95,Book Store,6/16/2024,Shopping
+844.92,House Cleaning,12/24/2023,Home
+673.35,Book Store,9/22/2023,Shopping
+699.61,Rent,3/9/2024,other
+61.16,Taxi,8/24/2023,Transportation
+545.02,Courier Service,3/21/2024,Transportation
+768.6,Hair Salon,8/5/2023,Personal Care
+328.4,Pet Store,9/7/2023,other
+884.88,Bank Fee,4/29/2024,Other
+36.26,Video Game Store,2/6/2024,other
+116.19,Education Fee,3/21/2024,Services
+509.79,Legal Service,8/6/2023,Services
+680.85,Butcher,2/23/2024,Food
+22.74,Bakery,5/16/2024,Food
+30.99,Airline Ticket,10/13/2023,Transportation
+922.04,Dentist,3/18/2024,Health
+583.65,Subscription Box,4/16/2024,Entertainment
+41.6,Courier Service,5/11/2024,Transportation
+694.92,Charity Donation,5/15/2024,Charity
+262.43,Parking,12/14/2023,Transportation
+87.56,Taxi,2/18/2024,Transportation
+805.69,Gift Shop,11/8/2023,Personal Care
+214.56,Fast Food,10/13/2023,Food
+905.31,Streaming Service,6/17/2024,Entertainment
+291.07,Childcare Service,8/6/2023,Services
+673.93,Spa,9/4/2023,Personal Care
+272.47,Rent,7/12/2024,other
+160.09,Business Service,8/20/2023,Services
+728.85,Home Improvement,4/1/2024,Home
+647.69,Dentist,10/17/2023,Health
+707.75,Parking,3/23/2024,Transportation
+363.47,Concert Ticket,7/23/2024,Entertainment
+884.54,Pet Store,10/23/2023,other
+609.96,Public Transport,7/14/2024,Transportation
+614.81,Butcher,12/8/2023,Food
+421.62,Business Service,4/2/2024,Services
+614.67,Courier Service,1/23/2024,Transportation
+788.98,Broker Fee,10/23/2023,other
+821.45,Childcare Service,10/19/2023,Services
+194.21,Video Game Store,4/11/2024,other
+737.87,Lottery Ticket,5/12/2024,Other
+301.7,Hotel,8/14/2023,other
+602.85,Accounting Service,7/22/2024,Services
+290.49,Taxi,11/5/2023,Transportation
+899.54,Gift Shop,12/11/2023,Personal Care
+121.0,Fitness Equipment,8/17/2023,other
+726.84,Software Purchase,3/5/2024,other
+252.4,Movie Theater,2/13/2024,Entertainment
+508.1,Hardware Purchase,7/1/2024,Shopping
+7.74,Book Store,12/9/2023,Shopping
+225.37,Dentist,12/18/2023,Health
+319.2,Grocery Store,11/6/2023,Food
+984.24,Uber,3/10/2024,Transportation
+936.42,Rent,11/21/2023,other
+373.61,Maintenance Fee,4/26/2024,Services
+801.01,Dentist,12/28/2023,Health
+491.19,Home Improvement,6/9/2024,Home
+954.4,Movie Theater,7/27/2024,Entertainment
+518.48,Electronics Store,6/5/2024,Shopping
+438.26,Pharmacy,4/28/2024,Health
+193.32,Airline Ticket,7/25/2024,Transportation
+408.27,Courier Service,3/5/2024,Transportation
+461.77,Dentist,10/24/2023,Health
+268.29,Fitness Equipment,12/17/2023,other
+577.89,Netflix,3/23/2024,Entertainment
+458.78,Education Fee,11/12/2023,Services
+847.09,Car Rental,12/25/2023,Transportation
+355.09,Gift Shop,10/23/2023,Personal Care
+958.64,Bank Fee,12/17/2023,Other
+120.06,Car Rental,11/7/2023,Transportation
+979.78,Florist,1/16/2024,Personal Care
+613.52,Gift Shop,10/6/2023,Personal Care
+531.75,Fast Food,5/12/2024,Food
+224.1,Freelance Payment,9/3/2023,Services
+731.51,Broker Fee,8/15/2023,other
+179.92,Restaurant,5/16/2024,Food
+835.11,Consulting Fee,3/11/2024,Services
+169.32,Hardware Purchase,11/17/2023,Shopping
+456.84,Movie Theater,1/31/2024,Entertainment
+860.58,Coffee Shop,3/7/2024,Food
+983.28,Accounting Service,7/11/2024,Services
+667.78,Freelance Payment,5/2/2024,Services
+861.81,Education Fee,9/14/2023,Services
+693.04,Insurance Payment,8/23/2023,other
+457.19,House Cleaning,8/14/2023,Home
+320.09,House Cleaning,8/14/2023,Home
+87.12,Butcher,1/15/2024,Food
+253.54,Concert Ticket,8/2/2023,Entertainment
+600.83,Doctor's Visit,2/21/2024,Health
+936.16,Pet Store,12/4/2023,other
+743.09,Video Game Store,11/14/2023,other
+829.11,Florist,1/14/2024,Personal Care
+920.75,Deli,10/12/2023,other
+602.29,Online Course,2/15/2024,Entertainment
+528.31,Taxi,6/30/2024,Transportation
+319.58,Pet Store,3/15/2024,other
+440.57,Streaming Service,1/14/2024,Entertainment
+331.18,Gardening Service,12/7/2023,Services
+472.47,Deli,9/6/2023,other
+385.83,Book Store,10/18/2023,Shopping
+550.6,Software Purchase,12/12/2023,other
+371.17,Home Improvement,3/19/2024,Home
+276.72,Clothing Store,11/2/2023,Shopping
+639.94,Car Rental,3/3/2024,Transportation
+141.16,Business Service,1/18/2024,Services
+870.71,Clothing Store,8/5/2023,Shopping
+620.9,Freelance Payment,6/7/2024,Services
+910.95,Courier Service,3/14/2024,Transportation
+416.88,Taxi,7/23/2024,Transportation
+663.65,Business Service,8/30/2023,Services
+72.15,Florist,7/2/2024,Personal Care
+338.36,Florist,12/14/2023,Personal Care
+634.59,Pet Store,12/22/2023,other
+627.59,Vet Visit,6/2/2024,Health
+854.12,Spotify,12/5/2023,other
+603.98,Gift Shop,6/10/2024,Personal Care
+737.83,Subscription Box,9/10/2023,Entertainment
+347.73,Mortgage,1/11/2024,Investments
+677.03,Spotify,8/24/2023,other
+194.06,Software Purchase,3/25/2024,other
+434.45,Charity Donation,9/26/2023,Charity
+395.56,Pharmacy,11/17/2023,Health
+162.97,Software Purchase,10/27/2023,other
+698.11,Home Improvement,12/25/2023,Home
+534.58,Taxi,3/6/2024,Transportation
+706.74,Netflix,3/17/2024,Entertainment
+526.95,Pet Store,6/5/2024,other
+857.73,Hair Salon,5/17/2024,Personal Care
+405.63,Fast Food,4/15/2024,Food
+557.27,Hardware Purchase,11/6/2023,Shopping
+590.77,Online Course,4/16/2024,Entertainment
+292.8,Charity Donation,4/14/2024,Charity
+871.92,Online Course,11/29/2023,Entertainment
+783.41,Gas Station,2/9/2024,Transportation
+83.7,Spa,8/19/2023,Personal Care
+528.24,Deli,3/27/2024,other
+285.99,Property Tax,11/16/2023,Home
+409.08,Bank Fee,3/30/2024,Other
+740.95,Online Course,6/11/2024,Entertainment
+874.99,Gas Station,11/16/2023,Transportation
+154.95,Dentist,9/23/2023,Health
+387.36,Broker Fee,12/3/2023,other
+788.99,Software Purchase,1/3/2024,other
+664.9,Childcare Service,5/10/2024,Services
+920.76,Freelance Payment,9/9/2023,Services
+86.54,Public Transport,12/24/2023,Transportation
+793.57,Clothing Store,8/17/2023,Shopping
+715.5,Courier Service,10/2/2023,Transportation
+85.26,Streaming Service,11/21/2023,Entertainment
+606.92,Movie Theater,5/30/2024,Entertainment
+726.07,Gas Station,3/7/2024,Transportation
+381.61,House Cleaning,2/29/2024,Home
+725.13,Education Fee,11/12/2023,Services
+134.52,Electronics Store,5/18/2024,Shopping
+724.35,Spa,8/25/2023,Personal Care
+545.52,Grocery Store,12/6/2023,Food
+524.33,Hair Salon,7/31/2024,Personal Care
+524.69,Accounting Service,12/23/2023,Services
+406.03,Hair Salon,2/20/2024,Personal Care
+200.62,Spotify,1/19/2024,other
+457.07,Subscription Box,8/22/2023,Entertainment
+32.31,Clothing Store,4/30/2024,Shopping
+998.22,Spa,11/8/2023,Personal Care
+782.36,Pet Store,3/26/2024,other
+863.62,Hotel,5/26/2024,other
+35.02,Grocery Store,7/25/2024,Food
+428.94,Gas Station,10/17/2023,Transportation
+103.9,Fast Food,10/23/2023,Food
+989.56,Butcher,6/17/2024,Food
+665.04,Software Purchase,8/13/2023,other
+221.66,Restaurant,2/10/2024,Food
+827.04,Property Tax,12/24/2023,Home
+487.86,Utility Bill,3/17/2024,other
+236.09,Clothing Store,4/7/2024,Shopping
+15.84,Gardening Service,8/12/2023,Services
+497.26,Coffee Shop,4/16/2024,Food
+33.19,Spa,2/17/2024,Personal Care
+957.03,Accounting Service,3/12/2024,Services
+717.9,Dentist,4/10/2024,Health
+358.41,Bakery,7/30/2024,Food
+64.05,Electronics Store,3/1/2024,Shopping
+439.14,Accounting Service,5/19/2024,Services
+691.4,Taxi,1/14/2024,Transportation
+322.39,Freelance Payment,1/8/2024,Services
+606.62,Electronics Store,5/16/2024,Shopping
+238.89,Clothing Store,8/28/2023,Shopping
+122.32,Investment,7/31/2024,Investments
+831.06,Insurance Payment,5/10/2024,other
+825.0,Uber,5/28/2024,Transportation
+786.29,Restaurant,10/27/2023,Food
+332.26,Video Game Store,10/12/2023,other
+39.27,Maintenance Fee,7/5/2024,Services
+852.15,Insurance Payment,3/16/2024,other
+526.03,Gift Shop,10/22/2023,Personal Care
+517.94,House Cleaning,2/23/2024,Home
+905.12,Public Transport,6/14/2024,Transportation
+21.54,Broker Fee,5/26/2024,other
+540.83,Deli,10/28/2023,other
+214.88,Subscription Box,8/22/2023,Entertainment
+544.44,Utility Bill,3/2/2024,other
+417.87,Deli,9/28/2023,other
+739.24,Freelance Payment,11/7/2023,Services
+786.9,Courier Service,9/7/2023,Transportation
+972.64,House Cleaning,9/7/2023,Home
+190.57,Netflix,7/30/2024,Entertainment
+344.82,Fast Food,6/19/2024,Food
+901.26,Hardware Purchase,9/5/2023,Shopping
+93.95,Bank Fee,6/27/2024,Other
+713.37,Clothing Store,2/10/2024,Shopping
+312.25,Education Fee,9/5/2023,Services
+251.45,Amazon,1/28/2024,Shopping
+65.9,Broker Fee,7/9/2024,other
+833.63,Business Service,9/11/2023,Services
+514.74,Book Store,7/7/2024,Shopping
+423.36,Charity Donation,3/11/2024,Charity
+310.83,Music Instrument Store,3/23/2024,Shopping
+526.65,Butcher,9/18/2023,Food
+905.47,Mortgage,1/20/2024,Investments
+893.99,Home Improvement,12/26/2023,Home
+129.31,Education Fee,5/12/2024,Services
+977.69,Legal Service,3/19/2024,Services
+248.49,Investment,1/11/2024,Investments
+724.12,Concert Ticket,10/5/2023,Entertainment
+744.64,Legal Service,6/4/2024,Services
+149.01,Online Course,3/27/2024,Entertainment
+958.42,Business Service,12/25/2023,Services
+963.42,Online Course,6/18/2024,Entertainment
+492.77,Car Rental,8/27/2023,Transportation
+102.7,Childcare Service,8/23/2023,Services
+371.87,Concert Ticket,4/6/2024,Entertainment
+851.93,Florist,1/4/2024,Personal Care
+219.94,Education Fee,9/24/2023,Services
+501.9,Gas Station,4/6/2024,Transportation
+684.19,Accounting Service,10/8/2023,Services
+362.61,Clothing Store,3/15/2024,Shopping
+174.8,Utility Bill,11/30/2023,other
+518.9,Freelance Payment,10/23/2023,Services
+623.45,Gift Shop,5/24/2024,Personal Care
+343.56,Bank Fee,11/20/2023,Other
+16.14,Book Store,5/23/2024,Shopping
+41.5,Hair Salon,11/9/2023,Personal Care
+656.0,Education Fee,2/8/2024,Services
+653.48,Uber,11/28/2023,Transportation
+653.81,Bank Fee,6/18/2024,Other
+693.54,Parking,7/27/2024,Transportation
+517.76,Grocery Store,11/19/2023,Food
+240.69,Butcher,6/29/2024,Food
+100.52,Furniture Store,10/27/2023,Shopping
+316.65,Fitness Equipment,12/5/2023,other
+42.69,Spotify,6/1/2024,other
+498.41,Concert Ticket,5/17/2024,Entertainment
+929.04,Bakery,1/13/2024,Food
+926.35,Childcare Service,2/9/2024,Services
+25.21,Deli,4/25/2024,other
+308.48,Taxi,6/10/2024,Transportation
+536.81,Charity Donation,9/9/2023,Charity
+930.61,Broker Fee,3/13/2024,other
+398.53,Uber,5/8/2024,Transportation
+613.75,Hotel,12/18/2023,other
+30.26,Rent,3/30/2024,other
+582.58,Mortgage,3/13/2024,Investments
+878.09,Fitness Equipment,10/9/2023,other
+190.0,Property Tax,5/10/2024,Home
+538.81,Vet Visit,8/24/2023,Health
+42.38,Deli,9/3/2023,other
+990.23,Courier Service,11/1/2023,Transportation
+81.11,Charity Donation,12/24/2023,Charity
+693.56,Music Instrument Store,2/25/2024,Shopping
+894.27,Broker Fee,6/11/2024,other
+542.57,Bank Fee,11/27/2023,Other
+520.88,Electronics Store,6/3/2024,Shopping
+195.81,Accounting Service,7/5/2024,Services
+107.94,Coffee Shop,2/15/2024,Food
+791.04,Streaming Service,1/7/2024,Entertainment
+105.86,Gardening Service,8/25/2023,Services
+416.43,Consulting Fee,1/26/2024,Services
+699.26,Online Course,12/10/2023,Entertainment
+542.52,Business Service,1/20/2024,Services
+940.44,Utility Bill,9/30/2023,other
+963.65,Coffee Shop,8/18/2023,Food
+795.12,Gas Station,6/5/2024,Transportation
+790.67,Spa,9/9/2023,Personal Care
+152.6,Public Transport,6/3/2024,Transportation
+245.24,Clothing Store,4/16/2024,Shopping
+986.04,Restaurant,6/3/2024,Food
+227.98,Dentist,9/30/2023,Health
+189.75,Clothing Store,2/20/2024,Shopping
+437.03,Software Purchase,9/18/2023,other
+657.4,Book Store,6/8/2024,Shopping
+98.97,Hotel,11/1/2023,other
+570.47,Education Fee,7/17/2024,Services
+654.06,Uber,11/11/2023,Transportation
+842.23,Restaurant,6/12/2024,Food
+324.83,Hair Salon,1/14/2024,Personal Care
+64.98,Dentist,8/11/2023,Health
+492.92,Insurance Payment,12/27/2023,other
+78.58,Clothing Store,11/13/2023,Shopping
+61.39,Rent,9/7/2023,other
+640.95,Dentist,5/1/2024,Health
+708.43,Coffee Shop,2/3/2024,Food
+76.08,Courier Service,3/17/2024,Transportation
+951.3,Spa,1/28/2024,Personal Care
+88.13,Charity Donation,12/19/2023,Charity
+731.18,Childcare Service,7/5/2024,Services
+54.9,Grocery Store,4/15/2024,Food
+732.26,Butcher,3/19/2024,Food
+567.98,Spotify,8/3/2023,other
+718.57,Software Purchase,8/25/2023,other
+546.6,Gas Station,2/17/2024,Transportation
+486.78,Property Tax,5/29/2024,Home
+277.44,Accounting Service,6/30/2024,Services
+334.38,Childcare Service,2/4/2024,Services
+746.76,Mortgage,5/20/2024,Investments
+900.08,Furniture Store,12/10/2023,Shopping
+302.9,Rent,7/22/2024,other
+722.88,Home Improvement,12/13/2023,Home
+378.83,Clothing Store,1/30/2024,Shopping
+875.23,Utility Bill,3/19/2024,other
+320.57,Clothing Store,3/2/2024,Shopping
+861.75,Movie Theater,5/15/2024,Entertainment
+712.61,Florist,8/23/2023,Personal Care
+133.37,Book Store,3/11/2024,Shopping
+975.45,Accounting Service,1/19/2024,Services
+418.91,Online Course,7/7/2024,Entertainment
+840.79,Lottery Ticket,7/7/2024,Other
+71.96,Hardware Purchase,10/13/2023,Shopping
+195.48,Gardening Service,7/5/2024,Services
+737.37,Hotel,5/3/2024,other
+559.92,House Cleaning,5/20/2024,Home
+796.91,Fast Food,8/31/2023,Food
+797.03,Amazon,2/5/2024,Shopping
+708.04,Maintenance Fee,10/20/2023,Services
+616.98,Lottery Ticket,5/21/2024,Other
+493.86,Home Improvement,6/3/2024,Home
+737.18,Coffee Shop,2/24/2024,Food
+325.36,Clothing Store,9/10/2023,Shopping
+875.54,Vet Visit,7/4/2024,Health
+468.07,Gym Membership,4/2/2024,other
+907.93,Charity Donation,11/26/2023,Charity
+518.89,Furniture Store,4/1/2024,Shopping
+723.95,Music Instrument Store,8/30/2023,Shopping
+435.33,Broker Fee,6/20/2024,other
+685.01,Movie Theater,3/15/2024,Entertainment
+121.88,Amazon,6/29/2024,Shopping
+40.84,Hardware Purchase,3/17/2024,Shopping
+391.67,Insurance Payment,9/6/2023,other
+467.03,Broker Fee,4/12/2024,other
+302.21,Coffee Shop,4/24/2024,Food
+705.06,Airline Ticket,10/27/2023,Transportation
+978.62,Streaming Service,1/25/2024,Entertainment
+611.37,Music Instrument Store,11/24/2023,Shopping
+856.33,Clothing Store,2/26/2024,Shopping
+319.38,Concert Ticket,7/30/2024,Entertainment
+259.53,Concert Ticket,11/6/2023,Entertainment
+430.3,Pharmacy,12/8/2023,Health
+987.04,Gift Shop,8/8/2023,Personal Care
+329.41,Fitness Equipment,7/28/2024,other
+725.36,Butcher,11/10/2023,Food
+120.95,Clothing Store,3/20/2024,Shopping
+23.72,Online Course,7/29/2024,Entertainment
+45.41,Hair Salon,9/21/2023,Personal Care
+571.6,Gardening Service,7/25/2024,Services
+543.27,Grocery Store,4/10/2024,Food
+427.87,Spa,11/15/2023,Personal Care
+282.98,Legal Service,6/19/2024,Services
+603.1,Furniture Store,6/25/2024,Shopping
+802.9,Furniture Store,1/14/2024,Shopping
+743.23,Childcare Service,2/27/2024,Services
+521.05,Deli,8/21/2023,other
+310.73,Property Tax,12/9/2023,Home
+572.6,Clothing Store,9/26/2023,Shopping
+170.73,Charity Donation,7/7/2024,Charity
+170.38,Airline Ticket,6/7/2024,Transportation
+816.89,Dentist,3/3/2024,Health
+239.53,Freelance Payment,6/19/2024,Services
+479.08,Public Transport,9/21/2023,Transportation
+480.55,Electronics Store,12/30/2023,Shopping
+739.03,House Cleaning,4/24/2024,Home
+374.41,Uber,12/7/2023,Transportation
+192.26,Gift Shop,7/16/2024,Personal Care
+502.54,Gardening Service,9/28/2023,Services
+827.77,Freelance Payment,5/19/2024,Services
+238.69,Insurance Payment,9/18/2023,other
+182.86,Concert Ticket,7/1/2024,Entertainment
+528.36,Online Course,7/13/2024,Entertainment
+602.45,Video Game Store,4/28/2024,other
+691.72,Electronics Store,10/12/2023,Shopping
+661.41,Home Improvement,9/2/2023,Home
+814.92,Amazon,2/24/2024,Shopping
+810.47,Education Fee,5/23/2024,Services
+46.74,Electronics Store,12/29/2023,Shopping
+961.18,Gas Station,10/1/2023,Transportation
+459.31,Lottery Ticket,6/22/2024,Other
+154.19,Video Game Store,3/6/2024,other
+932.43,Gift Shop,7/1/2024,Personal Care
+77.72,Music Instrument Store,5/13/2024,Shopping
+829.55,Property Tax,12/23/2023,Home
+550.78,Lottery Ticket,2/28/2024,Other
+262.51,Hair Salon,12/13/2023,Personal Care
+817.23,Vet Visit,11/1/2023,Health
+114.44,Amazon,1/26/2024,Shopping
+62.88,Gift Shop,12/24/2023,Personal Care
+625.69,Pet Store,8/25/2023,other
+445.35,Furniture Store,7/28/2024,Shopping
+346.11,Pet Store,4/24/2024,other
+689.42,Insurance Payment,5/25/2024,other
+333.5,Pet Store,9/25/2023,other
+48.14,Bank Fee,7/17/2024,Other
+962.06,Online Course,9/29/2023,Entertainment
+673.92,Parking,8/9/2023,Transportation
+801.74,Insurance Payment,4/14/2024,other
+150.05,Doctor's Visit,2/1/2024,Health
+853.59,Fitness Equipment,6/14/2024,other
+904.26,Streaming Service,2/1/2024,Entertainment
+328.4,House Cleaning,2/24/2024,Home
+460.66,Rent,3/1/2024,other
+766.73,Business Service,5/10/2024,Services
+944.72,Furniture Store,1/31/2024,Shopping
+747.64,Movie Theater,1/6/2024,Entertainment
+883.36,Spotify,8/26/2023,other
+677.74,Concert Ticket,5/10/2024,Entertainment
+978.32,Coffee Shop,9/25/2023,Food
+887.7,Utility Bill,10/23/2023,other
+507.6,Lottery Ticket,5/23/2024,Other
+778.36,Mortgage,4/9/2024,Investments
+626.25,Utility Bill,3/18/2024,other
+480.84,Lottery Ticket,7/7/2024,Other
+838.29,Mortgage,8/21/2023,Investments
+783.39,Bank Fee,11/26/2023,Other
+589.99,Butcher,4/20/2024,Food
+357.86,Public Transport,12/12/2023,Transportation
+782.11,Coffee Shop,2/21/2024,Food
+676.6,Spa,4/5/2024,Personal Care
+136.53,Spa,6/11/2024,Personal Care
+919.69,Legal Service,5/11/2024,Services
+976.47,Rent,2/2/2024,other
+882.24,Hotel,2/28/2024,other
+266.43,Accounting Service,4/2/2024,Services
+941.65,Charity Donation,4/18/2024,Charity
+333.76,Restaurant,9/6/2023,Food
+309.81,Taxi,10/25/2023,Transportation
+930.24,Uber,11/3/2023,Transportation
+677.09,House Cleaning,6/14/2024,Home
+385.22,Fast Food,5/11/2024,Food
+709.05,Hardware Purchase,8/11/2023,Shopping
+420.44,Accounting Service,2/7/2024,Services
+381.53,Grocery Store,8/9/2023,Food
+838.62,Fast Food,11/20/2023,Food
+115.52,Dentist,9/26/2023,Health
+169.87,Clothing Store,5/10/2024,Shopping
+512.37,Hair Salon,12/9/2023,Personal Care
+646.75,Insurance Payment,11/18/2023,other
+486.92,Broker Fee,11/22/2023,other
+892.6,Utility Bill,6/1/2024,other
+480.74,Freelance Payment,6/6/2024,Services
+180.55,Music Instrument Store,2/4/2024,Shopping
+965.12,Hotel,3/15/2024,other
+487.85,Restaurant,9/13/2023,Food
+229.5,Education Fee,11/17/2023,Services
+851.77,Video Game Store,1/6/2024,other
+552.84,Consulting Fee,12/20/2023,Services
+188.46,Gift Shop,4/19/2024,Personal Care
+353.88,Charity Donation,7/9/2024,Charity
+216.0,Pharmacy,11/29/2023,Health
+882.1,Courier Service,2/27/2024,Transportation
+904.38,Utility Bill,9/3/2023,other
+61.13,Grocery Store,1/27/2024,Food
+327.08,Parking,5/9/2024,Transportation
+493.17,Education Fee,3/30/2024,Services
+453.34,Fast Food,6/27/2024,Food
+325.24,Music Instrument Store,12/10/2023,Shopping
+217.89,Maintenance Fee,1/24/2024,Services
+941.1,Uber,10/27/2023,Transportation
+242.17,Taxi,5/25/2024,Transportation
+970.33,Maintenance Fee,3/1/2024,Services
+359.94,Online Course,11/3/2023,Entertainment
+479.65,Deli,7/19/2024,other
+145.67,Rent,9/1/2023,other
+422.7,Vet Visit,8/20/2023,Health
+659.81,Gas Station,12/9/2023,Transportation
+168.37,Legal Service,10/1/2023,Services
+321.46,Pharmacy,3/9/2024,Health
+941.13,Accounting Service,3/15/2024,Services
+786.4,Hotel,2/5/2024,other
+697.84,Hardware Purchase,12/22/2023,Shopping
+979.46,Accounting Service,2/22/2024,Services
+472.22,Mortgage,12/17/2023,Investments
+446.85,Airline Ticket,10/20/2023,Transportation
+451.07,Pet Store,2/16/2024,other
+389.43,Education Fee,4/23/2024,Services
+375.88,Fitness Equipment,11/14/2023,other
+923.77,Spa,10/15/2023,Personal Care
+676.51,Maintenance Fee,7/23/2024,Services
+272.55,Subscription Box,11/14/2023,Entertainment
+413.4,Hotel,5/24/2024,other
+47.94,Uber,8/21/2023,Transportation
+604.03,Video Game Store,6/16/2024,other
+490.76,Fitness Equipment,8/2/2023,other
+254.59,Restaurant,1/7/2024,Food
+611.11,Parking,4/18/2024,Transportation
+299.31,Rent,2/4/2024,other
+490.26,Gardening Service,8/31/2023,Services
+821.91,Charity Donation,2/7/2024,Charity
+864.89,Charity Donation,10/23/2023,Charity
+574.18,Netflix,11/26/2023,Entertainment
+111.95,Bank Fee,9/27/2023,Other
+331.39,Mortgage,8/17/2023,Investments
+505.16,Subscription Box,6/24/2024,Entertainment
+39.47,Florist,1/5/2024,Personal Care
+103.2,Fitness Equipment,9/21/2023,other
+153.77,Vet Visit,3/17/2024,Health
+868.71,Spotify,9/20/2023,other
+221.49,Airline Ticket,9/17/2023,Transportation
+181.73,Butcher,3/14/2024,Food
+886.18,Gardening Service,3/22/2024,Services
+751.48,Investment,6/10/2024,Investments
+941.18,Public Transport,2/18/2024,Transportation
+694.35,Furniture Store,10/13/2023,Shopping
+615.61,Public Transport,2/25/2024,Transportation
+783.92,Fast Food,2/7/2024,Food
+345.35,Streaming Service,7/23/2024,Entertainment
+576.41,Video Game Store,6/6/2024,other
+866.24,Pharmacy,11/23/2023,Health
+15.1,House Cleaning,11/29/2023,Home
+293.56,Fast Food,5/28/2024,Food
+317.1,Business Service,1/2/2024,Services
+520.39,Subscription Box,10/20/2023,Entertainment
+778.84,Electronics Store,9/3/2023,Shopping
+672.27,Utility Bill,5/10/2024,other
+280.26,Fitness Equipment,3/6/2024,other
+754.93,Concert Ticket,9/13/2023,Entertainment
+361.91,Investment,12/13/2023,Investments
+210.35,Coffee Shop,8/19/2023,Food
+302.67,Bank Fee,1/10/2024,Other
+867.55,Property Tax,2/5/2024,Home
+804.97,Dentist,8/3/2023,Health
+550.12,Netflix,9/26/2023,Entertainment
+976.39,Dentist,5/1/2024,Health
+978.21,Fast Food,2/23/2024,Food
+563.5,Deli,1/22/2024,other
+347.52,Hair Salon,7/14/2024,Personal Care
+215.03,Car Rental,9/5/2023,Transportation
+690.4,Lottery Ticket,10/23/2023,Other
+123.53,Uber,6/4/2024,Transportation
+548.79,Butcher,8/17/2023,Food
+643.98,Taxi,3/21/2024,Transportation
+260.95,Investment,11/2/2023,Investments
+587.33,Concert Ticket,6/4/2024,Entertainment
+618.18,Clothing Store,6/1/2024,Shopping
+257.52,Legal Service,8/9/2023,Services
+280.64,Amazon,5/8/2024,Shopping
+471.43,Courier Service,4/9/2024,Transportation
+642.79,Investment,11/2/2023,Investments
+864.03,Subscription Box,6/27/2024,Entertainment
+73.08,Gift Shop,8/6/2023,Personal Care
+885.27,Online Course,4/2/2024,Entertainment
+711.79,Parking,12/6/2023,Transportation
+292.25,Grocery Store,1/31/2024,Food
+286.35,Hotel,7/23/2024,other
+520.32,Property Tax,10/22/2023,Home
+322.62,House Cleaning,9/16/2023,Home
+506.79,Florist,9/25/2023,Personal Care
+517.67,Movie Theater,1/21/2024,Entertainment
+396.53,Restaurant,9/4/2023,Food
+871.84,Fitness Equipment,4/3/2024,other
+927.17,Restaurant,5/19/2024,Food
+764.38,Gym Membership,12/30/2023,other
+38.82,Education Fee,8/12/2023,Services
+461.12,House Cleaning,6/3/2024,Home
+689.82,Video Game Store,6/12/2024,other
+756.27,Furniture Store,3/10/2024,Shopping
+720.47,Deli,1/12/2024,other
+855.26,Bank Fee,1/23/2024,Other
+484.55,Broker Fee,5/16/2024,other
+389.18,Coffee Shop,1/12/2024,Food
+573.41,Spa,9/1/2023,Personal Care
+988.82,Car Rental,11/24/2023,Transportation
+258.57,Broker Fee,12/28/2023,other
+215.49,Gym Membership,12/15/2023,other
+813.97,Freelance Payment,10/11/2023,Services
+946.52,Gift Shop,10/7/2023,Personal Care
+40.62,Business Service,1/17/2024,Services
+761.91,Pharmacy,1/19/2024,Health
+826.39,Online Course,6/8/2024,Entertainment
+111.63,Fast Food,5/28/2024,Food
+200.02,Bank Fee,1/28/2024,Other
+71.19,Airline Ticket,6/14/2024,Transportation
+593.59,Dentist,3/27/2024,Health
+566.17,Hotel,4/22/2024,other
+171.94,Electronics Store,11/16/2023,Shopping
+957.55,Pharmacy,1/30/2024,Health
+928.36,Gym Membership,7/6/2024,other
+200.31,Grocery Store,7/7/2024,Food
+862.11,Movie Theater,1/15/2024,Entertainment
+670.98,Subscription Box,10/27/2023,Entertainment
+639.57,Business Service,5/18/2024,Services
+966.84,Amazon,9/23/2023,Shopping
+494.57,Car Rental,1/8/2024,Transportation
+339.57,Pharmacy,5/26/2024,Health
+424.16,Parking,11/29/2023,Transportation
+742.33,Book Store,5/5/2024,Shopping
+454.98,Video Game Store,12/4/2023,other
+640.0,Public Transport,11/10/2023,Transportation
+33.06,Deli,7/26/2024,other
+885.85,Gardening Service,1/6/2024,Services
+514.8,Music Instrument Store,10/11/2023,Shopping
+78.81,Coffee Shop,10/21/2023,Food
+273.9,Butcher,4/18/2024,Food
+943.44,Mortgage,7/16/2024,Investments
+130.68,Gift Shop,12/24/2023,Personal Care
+182.31,Book Store,11/7/2023,Shopping
+721.56,Airline Ticket,1/31/2024,Transportation
+549.09,Subscription Box,6/12/2024,Entertainment
+44.14,Hardware Purchase,7/22/2024,Shopping
+431.67,Streaming Service,8/12/2023,Entertainment
+667.49,Home Improvement,5/7/2024,Home
+326.05,Deli,7/12/2024,other
+85.83,Consulting Fee,10/19/2023,Services
+57.99,Hardware Purchase,3/10/2024,Shopping
+867.62,Hair Salon,7/30/2024,Personal Care
+323.83,Spa,8/2/2023,Personal Care
+581.65,Coffee Shop,10/13/2023,Food
+694.83,Clothing Store,11/8/2023,Shopping
+583.94,Parking,7/10/2024,Transportation
+500.27,Coffee Shop,1/23/2024,Food
+328.55,Amazon,9/27/2023,Shopping
+69.28,Consulting Fee,10/7/2023,Services
+699.22,Butcher,7/27/2024,Food
+268.22,Streaming Service,8/3/2023,Entertainment
+278.16,Hardware Purchase,6/27/2024,Shopping
+769.45,Deli,12/27/2023,other
+536.75,Broker Fee,2/23/2024,other
+180.88,Mortgage,12/10/2023,Investments
+248.75,Mortgage,2/19/2024,Investments
+105.46,Investment,10/31/2023,Investments
+595.34,Music Instrument Store,9/15/2023,Shopping
+556.38,Movie Theater,3/19/2024,Entertainment
+614.07,Movie Theater,2/14/2024,Entertainment
+893.14,Software Purchase,10/25/2023,other
+326.83,Coffee Shop,2/24/2024,Food
+92.77,Subscription Box,2/28/2024,Entertainment
+702.42,Doctor's Visit,9/2/2023,Health
+241.75,Concert Ticket,8/31/2023,Entertainment
+919.05,Furniture Store,3/31/2024,Shopping
+128.87,Gift Shop,9/18/2023,Personal Care
+601.15,Hotel,6/2/2024,other
+361.9,Software Purchase,1/9/2024,other
+753.79,Insurance Payment,1/21/2024,other
+140.56,Clothing Store,12/12/2023,Shopping
+906.7,Airline Ticket,10/8/2023,Transportation
+94.21,Insurance Payment,11/9/2023,other
+624.34,Education Fee,1/31/2024,Services
+209.39,Public Transport,1/18/2024,Transportation
+961.69,Education Fee,10/14/2023,Services
+990.71,Taxi,6/25/2024,Transportation
+589.05,Bakery,5/19/2024,Food
+488.27,Taxi,7/31/2024,Transportation
+356.5,Concert Ticket,4/3/2024,Entertainment
+172.9,Parking,5/18/2024,Transportation
+387.82,Insurance Payment,2/6/2024,other
+22.91,House Cleaning,5/30/2024,Home
+223.52,Mortgage,4/6/2024,Investments
+31.62,Pet Store,9/14/2023,other
+602.99,Home Improvement,8/13/2023,Home
+708.7,Spotify,12/19/2023,other
+828.4,Uber,12/19/2023,Transportation
+763.82,Movie Theater,10/20/2023,Entertainment
+969.17,Vet Visit,8/16/2023,Health
+394.12,Doctor's Visit,9/12/2023,Health
+567.15,Concert Ticket,9/28/2023,Entertainment
+89.55,Butcher,6/13/2024,Food
+39.81,Spa,5/14/2024,Personal Care
+636.1,Lottery Ticket,4/11/2024,Other
+738.31,Public Transport,1/3/2024,Transportation
+109.67,Doctor's Visit,3/18/2024,Health
+280.18,Movie Theater,8/29/2023,Entertainment
+812.95,Amazon,3/21/2024,Shopping
+936.62,Consulting Fee,10/15/2023,Services
+994.76,Broker Fee,4/7/2024,other
+755.09,Restaurant,3/17/2024,Food
+557.26,Netflix,6/12/2024,Entertainment
+860.23,Gas Station,10/27/2023,Transportation
+618.94,Utility Bill,9/15/2023,other
+968.39,Education Fee,2/9/2024,Services
+830.85,Concert Ticket,6/17/2024,Entertainment
+544.65,Broker Fee,11/26/2023,other
+962.72,Investment,12/28/2023,Investments
+32.24,Gym Membership,9/15/2023,other
+401.84,Public Transport,8/22/2023,Transportation
+836.55,Clothing Store,1/26/2024,Shopping
+655.27,Electronics Store,3/22/2024,Shopping
+984.66,Vet Visit,9/14/2023,Health
+866.34,Book Store,5/18/2024,Shopping
+945.56,Hotel,8/11/2023,other
+239.8,Hair Salon,9/10/2023,Personal Care
+923.03,Pet Store,7/30/2024,other
+98.57,Fast Food,3/26/2024,Food
+804.22,Clothing Store,1/20/2024,Shopping
+70.97,Airline Ticket,8/26/2023,Transportation
+738.72,Subscription Box,2/23/2024,Entertainment
+505.9,Airline Ticket,7/22/2024,Transportation
+374.4,Gift Shop,10/6/2023,Personal Care
+715.53,House Cleaning,9/7/2023,Home
+864.57,Hardware Purchase,6/27/2024,Shopping
+370.34,Subscription Box,5/7/2024,Entertainment
+177.89,Florist,5/15/2024,Personal Care
+580.11,Gardening Service,10/5/2023,Services
+751.25,Broker Fee,9/3/2023,other
+126.33,Utility Bill,9/17/2023,other
+373.36,Accounting Service,3/23/2024,Services
+924.6,House Cleaning,3/18/2024,Home
+306.62,Pharmacy,1/22/2024,Health
+641.85,Grocery Store,10/12/2023,Food
+673.1,Business Service,7/23/2024,Services
+302.71,Subscription Box,6/12/2024,Entertainment
+352.0,Deli,2/26/2024,other
+803.61,Grocery Store,6/3/2024,Food
+799.48,Lottery Ticket,12/12/2023,Other
+420.13,Parking,5/20/2024,Transportation
+882.5,Charity Donation,8/30/2023,Charity
+443.56,Hardware Purchase,6/12/2024,Shopping
+404.79,Doctor's Visit,7/11/2024,Health
+923.02,Gym Membership,10/2/2023,other
+833.07,Mortgage,4/25/2024,Investments
+673.79,Public Transport,4/28/2024,Transportation
+421.97,Music Instrument Store,1/1/2024,Shopping
+463.94,Video Game Store,12/15/2023,other
+56.08,Legal Service,4/17/2024,Services
+319.35,Doctor's Visit,9/3/2023,Health
+596.6,Childcare Service,2/25/2024,Services
+565.54,Concert Ticket,6/28/2024,Entertainment
+673.87,Fast Food,7/8/2024,Food
+426.19,Maintenance Fee,9/23/2023,Services
+238.33,Childcare Service,7/23/2024,Services
+170.56,Uber,7/14/2024,Transportation
+468.0,Freelance Payment,3/7/2024,Services
+166.23,Parking,4/23/2024,Transportation
+751.31,Property Tax,12/7/2023,Home
+890.27,Bakery,12/12/2023,Food
+520.0,Florist,11/4/2023,Personal Care
+530.34,Car Rental,5/22/2024,Transportation
+74.11,Amazon,5/14/2024,Shopping
+607.15,Freelance Payment,7/26/2024,Services
+497.47,Amazon,9/23/2023,Shopping
+920.65,Insurance Payment,7/15/2024,other
+826.05,Consulting Fee,12/9/2023,Services
+988.65,Courier Service,5/24/2024,Transportation
+477.79,Freelance Payment,9/30/2023,Services
+858.27,Spotify,4/27/2024,other
+874.61,Utility Bill,3/28/2024,other
+564.38,Online Course,9/9/2023,Entertainment
