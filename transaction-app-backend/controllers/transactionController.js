@@ -93,12 +93,25 @@ const updateTransaction = async (req, res) => {
 
     const updatedTransaction = await transaction.save();
     console.log("Transaction updated:", updatedTransaction);
+
+    // Update all transactions with the same transaction_type
+    if (transaction_type && categoryDoc) {
+      const updateResult = await Transaction.updateMany(
+        { transaction_type: transaction_type, user: req.user._id },
+        { $set: { category: categoryDoc._id } }
+      );
+      console.log(
+        `Updated ${updateResult.modifiedCount} transactions with the same transaction type.`
+      );
+    }
+
     res.json(updatedTransaction);
   } catch (error) {
     console.error("Error updating transaction:", error.message);
     res.status(500).json({ message: error.message });
   }
 };
+
 
 // Delete a transaction
 const deleteTransaction = async (req, res) => {

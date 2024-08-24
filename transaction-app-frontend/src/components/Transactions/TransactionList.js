@@ -15,10 +15,13 @@ function TransactionList({ transactions, onEdit, onDelete }) {
       .includes(searchTerm.toLowerCase())
   );
 
-  // Sort transactions
+  // Sort transactions globally
   const sortedTransactions = filteredTransactions.sort((a, b) => {
-    if (a[sortField] < b[sortField]) return sortOrder === "asc" ? -1 : 1;
-    if (a[sortField] > b[sortField]) return sortOrder === "asc" ? 1 : -1;
+    const fieldA = a[sortField];
+    const fieldB = b[sortField];
+
+    if (fieldA < fieldB) return sortOrder === "asc" ? -1 : 1;
+    if (fieldA > fieldB) return sortOrder === "asc" ? 1 : -1;
     return 0;
   });
 
@@ -41,6 +44,50 @@ function TransactionList({ transactions, onEdit, onDelete }) {
 
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
+  const getPageNumbers = () => {
+    const pageNumbers = [];
+    const maxPagesToShow = 5; // The maximum number of page buttons to show
+    const halfPagesToShow = Math.floor(maxPagesToShow / 2);
+
+    if (totalPages <= maxPagesToShow) {
+      // If total pages are less than max pages to show, show all
+      for (let i = 1; i <= totalPages; i++) {
+        pageNumbers.push(i);
+      }
+    } else {
+      if (currentPage <= halfPagesToShow + 1) {
+        // If current page is near the start
+        for (let i = 1; i <= maxPagesToShow; i++) {
+          pageNumbers.push(i);
+        }
+        pageNumbers.push("...");
+        pageNumbers.push(totalPages);
+      } else if (currentPage >= totalPages - halfPagesToShow) {
+        // If current page is near the end
+        pageNumbers.push(1);
+        pageNumbers.push("...");
+        for (let i = totalPages - maxPagesToShow + 1; i <= totalPages; i++) {
+          pageNumbers.push(i);
+        }
+      } else {
+        // If current page is somewhere in the middle
+        pageNumbers.push(1);
+        pageNumbers.push("...");
+        for (
+          let i = currentPage - halfPagesToShow;
+          i <= currentPage + halfPagesToShow;
+          i++
+        ) {
+          pageNumbers.push(i);
+        }
+        pageNumbers.push("...");
+        pageNumbers.push(totalPages);
+      }
+    }
+
+    return pageNumbers;
+  };
+
   return (
     <>
       <Form.Control
@@ -58,6 +105,7 @@ function TransactionList({ transactions, onEdit, onDelete }) {
             </th>
             <th onClick={() => handleSort("category.name")}>Category</th>
             <th onClick={() => handleSort("amount")}>Amount</th>
+            <th>Date</th>
             <th>Actions</th>
           </tr>
         </thead>
@@ -65,9 +113,9 @@ function TransactionList({ transactions, onEdit, onDelete }) {
           {currentTransactions.map((transaction) => (
             <tr key={transaction._id}>
               <td>{transaction.transaction_type}</td>
-              {/* Ensure you access the name field of the category object */}
               <td>{transaction.category?.name || "Uncategorized"}</td>
               <td>{transaction.amount}</td>
+              <td>{transaction.date}</td>
               <td>
                 <Button variant="warning" onClick={() => onEdit(transaction)}>
                   Edit
@@ -90,15 +138,19 @@ function TransactionList({ transactions, onEdit, onDelete }) {
           onClick={() => paginate(currentPage - 1)}
           disabled={currentPage === 1}
         />
-        {[...Array(totalPages)].map((_, index) => (
-          <Pagination.Item
-            key={index + 1}
-            active={index + 1 === currentPage}
-            onClick={() => paginate(index + 1)}
-          >
-            {index + 1}
-          </Pagination.Item>
-        ))}
+        {getPageNumbers().map((number, index) =>
+          number === "..." ? (
+            <Pagination.Ellipsis key={index} />
+          ) : (
+            <Pagination.Item
+              key={number}
+              active={number === currentPage}
+              onClick={() => paginate(number)}
+            >
+              {number}
+            </Pagination.Item>
+          )
+        )}
         <Pagination.Next
           onClick={() => paginate(currentPage + 1)}
           disabled={currentPage === totalPages}

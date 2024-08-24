@@ -6,6 +6,7 @@ const connectDB = require("./config/db");
 const authRoutes = require("./routes/authRoutes");
 const transactionRoutes = require("./routes/transactionRoutes");
 const categoryRoutes = require("./routes/categoryRoutes");
+const dashboardRoutes = require("./routes/dashboardRoutes");
 const { protect } = require("./middleware/authMiddleware");
 
 dotenv.config();
@@ -40,7 +41,7 @@ app.use(
 app.use("/api/auth", authRoutes);
 app.use("/api/transactions", protect, transactionRoutes);
 app.use("/api/categories", protect, categoryRoutes);
-
+app.use("/api/dashboard", protect, dashboardRoutes);
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

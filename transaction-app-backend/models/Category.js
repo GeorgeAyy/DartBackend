@@ -11,6 +11,11 @@ const categorySchema = new mongoose.Schema({
     ref: "User",
     required: true,
   },
+  budget: {
+    type: Number,
+    required: true, // Set this to true if every category must have a budget
+    default: 0, // You can set a default budget, for example, 0
+  },
 });
 
 const Category = mongoose.model("Category", categorySchema);

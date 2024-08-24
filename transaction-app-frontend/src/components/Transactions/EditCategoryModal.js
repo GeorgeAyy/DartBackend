@@ -7,10 +7,12 @@ function EditCategoryModal({
   handleEditCategory,
   currentCategory,
 }) {
-  const [updatedCategory, setUpdatedCategory] = useState("");
+  const [updatedCategoryName, setUpdatedCategoryName] = useState("");
 
   useEffect(() => {
-    setUpdatedCategory(currentCategory);
+    if (currentCategory) {
+      setUpdatedCategoryName(currentCategory.name); // Set only the name property
+    }
   }, [currentCategory]);
 
   return (
@@ -24,8 +26,8 @@ function EditCategoryModal({
             <Form.Label>Category Name</Form.Label>
             <Form.Control
               type="text"
-              value={updatedCategory}
-              onChange={(e) => setUpdatedCategory(e.target.value)}
+              value={updatedCategoryName}
+              onChange={(e) => setUpdatedCategoryName(e.target.value)}
             />
           </Form.Group>
         </Form>
@@ -36,7 +38,7 @@ function EditCategoryModal({
         </Button>
         <Button
           variant="primary"
-          onClick={() => handleEditCategory(updatedCategory)}
+          onClick={() => handleEditCategory(updatedCategoryName)}
         >
           Save Changes
         </Button>

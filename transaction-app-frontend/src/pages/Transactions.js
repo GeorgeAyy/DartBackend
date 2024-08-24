@@ -6,7 +6,8 @@ import EditTransactionModal from "../components/Transactions/EditTransactionModa
 import DeleteTransactionModal from "../components/Transactions/DeleteTransactionModal";
 import SortTransactionsModal from "../components/Transactions/SortTransactionsModal";
 import FilterTransactionsModal from "../components/Transactions/FilterTransactionsModal";
-import { Container, Row, Col, Button } from "react-bootstrap";
+import { Container, Row, Col, Button, Form } from "react-bootstrap";
+import * as XLSX from "xlsx"; // Import XLSX for handling Excel files
 
 function Transactions() {
   const [transactions, setTransactions] = useState([]);
@@ -25,6 +26,7 @@ function Transactions() {
   const [sortField, setSortField] = useState("transaction_type");
   const [sortOrder, setSortOrder] = useState("asc");
   const [filterCategory, setFilterCategory] = useState("");
+  const [excelFile, setExcelFile] = useState(null);
 
   useEffect(() => {
     console.log("Fetching transactions...");
@@ -39,9 +41,14 @@ function Transactions() {
       .then((response) => {
         console.log("Transactions fetched:", response.data);
         setTransactions(response.data);
+
+        // Extract and set unique categories
         const uniqueCategories = [
-          ...new Set(response.data.map((t) => t.category).filter((c) => c)), // Filter out null categories
-        ];
+          ...new Map(
+            response.data.map((t) => [t.category?._id, t.category])
+          ).values(),
+        ].filter((c) => c); // Filter out null categories
+
         setCategories(uniqueCategories);
         console.log("Unique categories set:", uniqueCategories);
       })
@@ -173,6 +180,54 @@ function Transactions() {
 
   console.log("Filtered transactions:", filteredTransactions);
 
+  const exportToExcel = () => {
+    // Map the transactions to include only the desired fields with new names
+    const formattedTransactions = transactions.map((transaction) => ({
+      Transaction_Type: transaction.transaction_type,
+      Amount_Spent: transaction.amount,
+      Date: transaction.date, // Assuming 'date' is already in the correct format
+    }));
+
+    // Define a worksheet and a workbook
+    const worksheet = XLSX.utils.json_to_sheet(formattedTransactions);
+    const workbook = XLSX.utils.book_new();
+
+    // Add the worksheet to the workbook
+    XLSX.utils.book_append_sheet(workbook, worksheet, "Transactions");
+
+    // Create a download link for the Excel file
+    XLSX.writeFile(workbook, "transactions.xlsx");
+  };
+
+  const handleFileUpload = (e) => {
+    const file = e.target.files[0];
+    setExcelFile(file);
+  };
+
+  const importFromExcel = async () => {
+    if (!excelFile) return;
+
+    const formData = new FormData();
+    formData.append("file", excelFile);
+
+    try {
+      const response = await axios.post(
+        "http://localhost:5000/api/transactions/import-transactions",
+        formData,
+        {
+          headers: {
+            "Content-Type": "multipart/form-data",
+          },
+          withCredentials: true,
+        }
+      );
+      console.log("Imported transactions:", response.data);
+      fetchTransactions(); // Refresh the transaction list after import
+    } catch (error) {
+      console.error("Error importing transactions!", error);
+    }
+  };
+
   return (
     <Container className="mt-5">
       <Row className="mb-3">
@@ -185,7 +240,14 @@ function Transactions() {
           </Button>{" "}
           <Button variant="warning" onClick={() => setShowFilterModal(true)}>
             Filter Transactions
+          </Button>{" "}
+          <Button variant="success" onClick={importFromExcel}>
+            Import Transactions from Excel
           </Button>
+          <Button variant="secondary" onClick={exportToExcel}>
+            Export to Excel
+          </Button>
+          <Form.Control type="file" onChange={handleFileUpload} />
         </Col>
       </Row>
       <TransactionList

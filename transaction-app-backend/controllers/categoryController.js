@@ -6,7 +6,7 @@ const getCategories = async (req, res) => {
   try {
     const categories = await Category.find({ user: req.user._id });
     console.log("Categories fetched:", categories);
-    res.json(categories.map((category) => category.name));
+    res.json(categories);
   } catch (error) {
     console.error("Failed to retrieve categories:", error.message);
     res.status(500).json({ message: "Failed to retrieve categories" });
@@ -34,7 +34,8 @@ const addCategory = async (req, res) => {
 // Edit an existing category
 const editCategory = async (req, res) => {
   console.log("editCategory called with ID:", req.params.id);
-  const { name } = req.body;
+  const { name, budget } = req.body; // Destructure the name and budget from the request body
+
   try {
     const category = await Category.findOne({
       _id: req.params.id,
@@ -46,10 +47,12 @@ const editCategory = async (req, res) => {
       return res.status(404).json({ message: "Category not found" });
     }
 
-    category.name = name;
+    if (name) category.name = name; // Update the name if provided
+    if (budget !== undefined) category.budget = budget; // Update the budget if provided
+
     await category.save();
     console.log("Category updated successfully:", category);
-    res.json({ message: "Category updated successfully" });
+    res.json({ message: "Category updated successfully", category });
   } catch (error) {
     console.error("Failed to update category:", error.message);
     res.status(500).json({ message: "Failed to update category" });
